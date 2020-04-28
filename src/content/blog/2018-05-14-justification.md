@@ -1,3 +1,8 @@
+---
+title: Justification
+author: Natalie Anderson
+date: 2018-05-14T06:00:00.000Z
+---
 title: "Justification"
 author: "Natalie Anderson"
 date: 2018/05/14
