@@ -1,7 +1,8 @@
-title: "The Development of a Character"
-author: "Natalie Anderson"
-date: 2018/05/16
-
+---
+title: The Development of a Character
+author: Natalie Anderson
+date: 2018-05-16T20:21:00.002-06:00
+---
 I had the opportunity to be part of this really crazy thing called "THE SPACE CENTER." Or more appropriately, the Christa McAuliffe Space Education Center, or CMSEC. If you want to know more about this whole thing, look at [The Troubadour](https://voyagerslog.blogspot.com/) or the Space Center's [website](https://spacecenter.alpineschools.org/). It's kind of hard to explain. At the Space Center I was able to really lose myself and become someone else for a while. I had a TON of characters with a bunch of different accents and personalities that I got to play. Characters that were written into the script and those that I made up for myself. This is my own personal journey towards creating several of my own characters.
 
 One of those first characters I ever made at the Space Center is named Clover Aazaelia O'Tiernay. She has an Irish accent, a heart of gold, a quick wit, and a sympathetic spirit. I love her to pieces. There have been many others over the years, but she really was my first and probably greatest. We grew together, got to know one another, and eventually she became part of me. (We'll get to how that works a bit later.)

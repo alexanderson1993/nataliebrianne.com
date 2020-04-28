@@ -1,7 +1,8 @@
-title: "Anxiety vs Exhileration"
-author: "Natalie Brianne"
-date: 2020/03/16
-
+---
+title: Anxiety vs Exhileration
+author: Natalie Brianne
+date: 2020-03-16T09:52:00.001-06:00
+---
 I was reading through my journal the other day and found an entry that was a bit different than the rest. Instead of being in first person from my point of view, I found an interesting narrative. As I read, I remembered what it was meant to be. My anxiety vs my optimism. I often have conversations like these where I try to figure out exactly how I feel about a situation. Will my fear outweigh my excitement? Will I back down because of my anxiety? Or will I push through, hoping to find the beauty in the pain or terror.
 
 

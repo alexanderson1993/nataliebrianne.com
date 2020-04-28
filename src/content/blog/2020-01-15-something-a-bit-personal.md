@@ -1,7 +1,8 @@
-title: "Something a bit Personal"
-author: "Natalie Brianne"
-date: 2020/01/15
-
+---
+title: Something a bit Personal
+author: Natalie Brianne
+date: 2020-01-15T10:38:00.000-07:00
+---
 And now for something completely different. Last year, I wrote a personal essay for a class. It was the first time that I've really written about my experience of losing my dad. Up to very recently, I haven't liked to talk about it. Heck, I lost my dad before I started my senior year of high school, and I didn't really tell anyone that it had happened. I avoided talking about it or opening up to anyone. I guess it was a coping strategy.
 
 It's been four and a half years since my dad passed away, and I still feel the loss nearly every day in one form or another. I'm better about talking to people about my experiences and feelings. And while I feel a bit insecure about sharing this, I think that some of the best writing comes from honesty and truth-telling. This is a bit different than other things I've done in the past. So, here's "The Nothing."

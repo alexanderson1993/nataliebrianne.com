@@ -1,7 +1,8 @@
-title: "Social Identifiers"
-author: "Natalie Brianne"
-date: 2020/03/18
-
+---
+title: Social Identifiers
+author: Natalie Brianne
+date: 2020-03-18T17:42:00.001-06:00
+---
 <div class="separator" style="clear: both; text-align: center;"></div><div style="margin-left: 1em; margin-right: 1em;"></div>
 
 

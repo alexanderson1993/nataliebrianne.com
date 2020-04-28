@@ -1,7 +1,8 @@
-title: "The Conundrum "
-author: "Natalie Brianne"
-date: 2020/02/18
-
+---
+title: The Conundrum 
+author: Natalie Brianne
+date: 2020-02-18T20:25:00.001-07:00
+---
 Change. Change is the bane of my existence.
 
 Normally, I can handle it pretty well. That is, when it comes in small doses. For some reason the fates or Fortuna have decided that my "change" intake has been too low. They called to up the dose. I took it in stride. And then the dose was upped again.

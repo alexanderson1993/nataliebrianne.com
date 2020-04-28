@@ -1,7 +1,8 @@
-title: "Collapsing Inwards"
-author: "Natalie Anderson"
-date: 2018/06/28
-
+---
+title: Collapsing Inwards
+author: Natalie Anderson
+date: 2018-06-28T13:52:00.002-06:00
+---
 I find it humorous that in my previous posts I was so gung-ho about writing. Considering what has happened in the last few weeks that is. You know, I don't even know who my readers are. I've let a few people know about the blog but I don't even know if they read. I know there are at least a few people in different countries that read what I write. And I've only written three (four once this one goes out) posts.
 
 The title of this post refers to the name of a song that happened to come on when I was shuffling my music. It comes from <i>The Theory of Everything </i>which is an amazing film about the life of Steven Hawking. I can say this despite never seeing it because Steven Hawking himself was impressed with the film before his passing earlier this year. Now I don't know where this particular song fits in the movie, but the way I am feeling today and the way that this particular song sounds coincide. Today I felt as if my entire life was collapsing from the inside out. Deteriorating. Piece by piece. It made no sense. I've had so many good days and nothing, literally nothing had happened today to cause a breakdown inside of me. And yet, there it was.

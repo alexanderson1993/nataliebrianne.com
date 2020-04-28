@@ -1,7 +1,8 @@
-title: "Authorship"
-author: "Natalie Anderson"
-date: 2018/05/31
-
+---
+title: Authorship
+author: Natalie Anderson
+date: 2018-05-31T14:03:00.000-06:00
+---
 Whenever I tell people that I am working on getting a book published, I get varied answers. Some people are really excited. Some people are impressed that I even have a novel written. Some people are skeptical that I'll even be able to get anyone to read it. Others continually tell me that it isn't going to work out and that I should look into a different line of work. I've gotten lots of reactions. Some seem honest and genuine. Others I know are saying good luck and thinking that this is a pipe dream. Very few consider me to be a real author.
 
 Why? Because I haven't published a book yet. And yes, that may be true. I am technically not a published author. I mean, I have a poem published in a poetry book, but I wrote that in fourth grade. I also have a hard copy of a version of the Emperor's New Clothes that I wrote (and illustrated!) in second grade. I have articles for a student newspaper published online. But I don't have a widely distributed published book. That's just how it is. For now.

@@ -1,7 +1,8 @@
-title: "Justification"
-author: "Natalie Anderson"
-date: 2018/05/14
-
+---
+title: Justification
+author: Natalie Anderson
+date: 2018-05-14T14:49:00.002-06:00
+---
 Whenever I start a new diary, or write an essay, or really start any new adventure, I always feel the need to justify it. When writing the first page or so in a new diary, I usually start by telling the journal a little bit about myself. How old I am, what's my current favorite color, what my favorite things are, who my best friend is. All of those things. (20, pink or turquoise depending, art and writing, and my cat. Just kidding! My best friend knows who they are.) Writing all of that down is just the standard procedure for starting a new diary.
 
 In an essay it's usually the hook followed by some explanation and the thesis, and every paragraph afterwards has a little topic sentence at the beginning that points you in the general direction of where I'm wanting to take the essay. That's standard procedure taught by most teachers and professors worth their salt and paprika.
