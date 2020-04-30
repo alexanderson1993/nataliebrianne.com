@@ -7,7 +7,6 @@
   "dependencies": {
     "@emotion/core": "^10.0.28",
     "@emotion/styled": "^10.0.27",
-    "@mdx-js/mdx": "^1.6.0",
     "@n8tb1t/use-scroll-position": "^1.0.43",
     "gatsby": "^2.21.0",
     "gatsby-core-utils": "^1.2.0",

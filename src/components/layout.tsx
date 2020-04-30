@@ -25,10 +25,9 @@ const Layout = ({ children }) => {
 
   return (
     <>
-      <div css={tw`min-h-screen flex flex-col`}>
-        <Header siteTitle={data.site.siteMetadata.title} />
-        <main css={tw`flex-grow my-10`}>{children}</main>
-        <footer css={tw`text-center`}>© {new Date().getFullYear()}</footer>
+      <Header siteTitle={data.site.siteMetadata.title} />
+      <div css={tw`h-screen flex items-center justify-center`}>
+        <main>{children}</main>
         {/* <footer
     css={css({
       mt: 4,
