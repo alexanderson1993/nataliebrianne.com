@@ -3,6 +3,7 @@ title: Cliffhangers
 author: Natalie Brianne
 date: 2020-01-29T16:24:00.001-07:00
 ---
+
 Ever since I was little I loved the outdoors. My mother instilled this in me through hikes and nature walks. She would stop to identify plants along the way to the point that I know what burdock, mullion, and yarrow look like and what they are used for. Living in Utah for practically all of my life (barring the 3 months that I was in Europe), I have pretty easy access to the mountains and can receive some respite just about whenever I want. Waterfalls, scenic views, snow, cute animals, and peaceful silence are a mere fifteen to thirty minute drive away.
 
 In more recent years, one of my brothers introduced me to rock climbing. For reference, I've been terrified of heights and falling from them for who knows how long. I suspect it came from teetering dangerously close to a ledge in Yellowstone and having a well-meaning brother push me closer to that edge. Whatever the reason, heights are bothersome. Yet, I really enjoy rock climbing--of the indoor variety. In this case you have harnesses and ropes and climb in a simulated environment. You feel the burn for days after, sometimes weeks, but it is a great workout and a lot of fun.
@@ -13,9 +14,6 @@ Sometimes you just want to let go. Or to stop completely. But every once in a wh
 
 This is what it was like to hear that my book has been accepted by a publisher. I've been having a rough go of it, and it feels like I've just been struggling to keep my hold on the mountain. I don't know if it will continue to be so steep, but I've found a ledge. A hope for the future. Even if things are uncertain, I know that there are good things ahead along with the bad. And whatever happens, at least I'll be stronger by the end of it.
 
-So my book is getting published. Now what?*
+So my book is getting published. Now what?<sup>1</sup>
 
-
-
-* If you know what I am quoting you get triple chocolate brownie points.
-
+<small><sup>1</sup> If you know what I am quoting you get triple chocolate brownie points.</small>
