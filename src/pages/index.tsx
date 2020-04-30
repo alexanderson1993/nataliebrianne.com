@@ -19,12 +19,6 @@ const fadeUp = keyframes`
   }
 `
 
-console.log({
-  ...tw`text-white text-6xl font-bold`,
-  ...css`
-    opacity: 0.5;
-  `,
-})
 const IndexPage = () => (
   <Layout>
     <SEO title="Coming Soon" />

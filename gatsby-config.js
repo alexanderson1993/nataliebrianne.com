@@ -5,6 +5,14 @@ module.exports = {
     author: `@gatsbyjs`,
   },
   plugins: [
+    {
+      resolve: `gatsby-theme-blog-core`,
+      options: {
+        // basePath defaults to `/`
+        basePath: `/blog`,
+      },
+    },
+
     `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-typescript`,
     `gatsby-plugin-react-helmet`,
@@ -18,7 +26,7 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/src/content/blog`,
+        path: `${__dirname}/src/content/posts`,
         name: `content/posts`,
       },
     },
