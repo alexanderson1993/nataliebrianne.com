@@ -3,6 +3,7 @@ title: The Development of a Character
 author: Natalie Anderson
 date: 2018-05-16T20:21:00.002-06:00
 ---
+
 I had the opportunity to be part of this really crazy thing called "THE SPACE CENTER." Or more appropriately, the Christa McAuliffe Space Education Center, or CMSEC. If you want to know more about this whole thing, look at [The Troubadour](https://voyagerslog.blogspot.com/) or the Space Center's [website](https://spacecenter.alpineschools.org/). It's kind of hard to explain. At the Space Center I was able to really lose myself and become someone else for a while. I had a TON of characters with a bunch of different accents and personalities that I got to play. Characters that were written into the script and those that I made up for myself. This is my own personal journey towards creating several of my own characters.
 
 One of those first characters I ever made at the Space Center is named Clover Aazaelia O'Tiernay. She has an Irish accent, a heart of gold, a quick wit, and a sympathetic spirit. I love her to pieces. There have been many others over the years, but she really was my first and probably greatest. We grew together, got to know one another, and eventually she became part of me. (We'll get to how that works a bit later.)
@@ -17,23 +18,22 @@ Around this time, I told my mother about this little RPS thing we were doing. I 
 
 I went through that entirely long and arduous process just to explain how my characters are to me. They are part of me, yes. But they are also something greater than me. They are separate beings that I happen to give a voice. And I'm going to tell my process of how I found them in acting and writing. This is just my process, and it might not work for everyone, but it is what I've found has worked for me.
 
-<b>Where the Process Actually Starts</b>
-<b>
-</b>
+## Where the Process Actually Starts
+
 Firstly to give you the basic framework I follow in making a character:
 
+- Give your character a purpose
+- Give them a personality
+- Find them a name&nbsp;
+- Get the fluff out of the way
+- Place a bit of yourself in every character&nbsp;
+- Become them and Tweak/rework as necessary.
 
-* Give your character a purpose
-* Give them a personality
-* Find them a name&nbsp;
-* Get the fluff out of the way
-* Place a bit of yourself in every character&nbsp;
-* Become them and Tweak/rework as necessary.<div>
-</div><b>Give Your Character A Purpose</b>
+## Give Your Character A Purpose
 
 When I first start writing a character, I begin by figuring out what I need from them. In some cases it is easy. At the Space Center, your first basic character would be a doctor type character. Then you might need a pirate. Or maybe an engineer. All of those are basic job descriptions that you can then fill in with personality. This can often be the easiest part of creating the character. It gives you a mold to pour all of the other lovely stuff into. Give them a purpose to be in your story.
 
-<b>Give Them a Personality</b>
+## Give Them a Personality
 
 After that basic job description, you can figure out how you want your character to behave. For instance, Clover needed to be someone nice, trustworthy, and someone who people could ask for help. She needed to be a genuinely good person. But she needed to have flaws. I also knew that her job would be Computer specialist because of what I needed her for at the Space Center. Having that laid out, I decided on an Irish accent because that was something I could do, and looked for an Irish name.
 
@@ -41,25 +41,25 @@ When choosing your personality for your character, make sure that you give them 
 
 When designing Clover I sat down and listed out character traits that I wanted her to have. Strengths and weaknesses. She was going to be friendly, loyal, honest, strong, intelligent, analytical, high-spirited, and independent. She also was going to be stubborn, clumsy, forgetful, and rebellious. From there I made a list of skills that went with her job title. At every step in the process you can revisit the previous ones.
 
-<b>Find them a Name</b>
-<b>
-</b>Honestly, Clover was just a generic name I had assigned to the Irish accent in the hopes of finding something better later. She had other ideas and the name stuck. Other times I research names. I take some of those character traits and enter them in on baby name websites to find things that fit. Sometimes I use google translate. Sometimes I just like a letter and look under that. [Fantasy Name Generator](http://www.fantasynamegenerators.com/) is a great place to get random names. I ended up keeping Clover and giving her the last name O'Tiernay.
+## Find them a Name
 
-<b>Get the Fluff Out of the Way</b>
+Honestly, Clover was just a generic name I had assigned to the Irish accent in the hopes of finding something better later. She had other ideas and the name stuck. Other times I research names. I take some of those character traits and enter them in on baby name websites to find things that fit. Sometimes I use google translate. Sometimes I just like a letter and look under that. [Fantasy Name Generator](http://www.fantasynamegenerators.com/) is a great place to get random names. I ended up keeping Clover and giving her the last name O'Tiernay.
+
+## Get the Fluff Out of the Way
 
 This includes physical descriptions, favorite things, and other things like that. These make the character more interesting, for certain, and can give your character something memorable (such as Harry Potter's scar and his eyes' resemblance to his mother's eyes,) but at the end of the day, your character on the inside is more important than what they look like on the outside. Just make sure that you can find a way to explain the scars and birthmarks later when you are coming up with a backstory.
 
-<b>Place a Bit of Yourself in Every Character</b>
-<b>
-</b>Something to note about all of the characters I've mentioned so far, whether they are good or bad, is that there is a piece of me in each of them. In order for me to effectively and realistically portray these individuals, part of my personality has to coincide with theirs. Hence Danielle having a hard time talking about her feelings, and Roslyn having a strange sense of humor. You can cut them all out like cookies on a cookie sheet, but until you place some of your humanity into the dough, they won't ever jump out of the oven and run down the street by themselves.
+## Place a Bit of Yourself in Every Character
+
+Something to note about all of the characters I've mentioned so far, whether they are good or bad, is that there is a piece of me in each of them. In order for me to effectively and realistically portray these individuals, part of my personality has to coincide with theirs. Hence Danielle having a hard time talking about her feelings, and Roslyn having a strange sense of humor. You can cut them all out like cookies on a cookie sheet, but until you place some of your humanity into the dough, they won't ever jump out of the oven and run down the street by themselves.
 
 Alright, you don't have to consciously think, "Hmm.....what part of me shall I use in this character.....Oh, I know! My sense of humor." You don't have to do that. Usually when you are done creating a character and you get to the next part (hold your horses,) you'll find that there is something in your character that you relate to. If you don't, that is when you need to rethink it. The reasoning for this is if you are creating a character, that means that you have to play them in some sense. Either on stage, behind a microphone, or writing dialogue in a book. That means you need to be able to make them realistic. If part of them already is part of you, you are closer to being more real with them. Also don't freak out when you see part of yourself in your bad guy. All bad guys are human too and they might like cheesecake as much as you do. (Not saying that liking cheesecake is a character trait.)
 
-<b>Become Them and Tweak/Rework as Necessary</b>
- <b>
-</b>When I was first conceiving Clover, I made all of these mental check marks. I got a name, a personality, a description, and a purpose (I didn't know about the personal aspect yet) and at this point I thought I was done.
+## Become Them and Tweak/Rework as Necessary
 
-You are <i>never</i>&nbsp;done until you no longer use the character. Like any person, your characters will continue to grow and develop in ways you won't expect. Sometimes when I was playing her, words would come out of my mouth and suddenly I would find out that she wasn't afraid of spiders. Then I would find out that her mother had died when she was young and she was raised by her father on a starship. Then I'd find out that she likes holodecks.
+When I was first conceiving Clover, I made all of these mental check marks. I got a name, a personality, a description, and a purpose (I didn't know about the personal aspect yet) and at this point I thought I was done.
+
+You are _never_ done until you no longer use the character. Like any person, your characters will continue to grow and develop in ways you won't expect. Sometimes when I was playing her, words would come out of my mouth and suddenly I would find out that she wasn't afraid of spiders. Then I would find out that her mother had died when she was young and she was raised by her father on a starship. Then I'd find out that she likes holodecks.
 
 These were not things that I sat down and figured out for myself. These were things that came from me as the character developed in action. Backstories fell into place. Her personality traits began to make sense. She became more real.
 
@@ -71,18 +71,18 @@ Your characters will constantly be evolving, and that's okay. That is called "Ch
 
 The only thing I haven't discussed is my book and the characters in there. I thought I knew each of them intimately when I got started. I had played Mira over and over and over again in so many situations, and interacted with my friend's version of Byron as many times. But in writing the book, I have found that there was so much more to learn about them. The best way to get to know a character is to be them. Whether in acting or in writing. Just. Be. Them. Step into their shoes for a bit. See how they act. Learn how they speak. You can sit down and meticulously plan out every single nuance of their character, but until you let them loose in your narrative, they won't be real or believable. Letting them loose you can find out their motivations, their trials, their backstory, everything. And then you can tweak it as necessary and write them with integrity and dignity.
 
-<b>Conclusion</b>
-<b>
-</b>Something to note is this method of just letting things happen does take some practice. Using character sheets to help give you a sense of direction when you are beginning can be really helpful. Once you get the knack for it, you can create basically any character that you need, bad guy, good guy, or in between to suit your preference. Like with any skill, character development takes practice. Think of it like getting to know a new friend. If you don't spend time with them, you won't get to know them. In the end you will grow to love them, even the bad guys (in a love to hate sort of way,) love playing them, hate to kill them (I write mystery novels after all,) and hate to say goodbye when it's time to move onto other things.
+## Conclusion
+
+Something to note is this method of just letting things happen does take some practice. Using character sheets to help give you a sense of direction when you are beginning can be really helpful. Once you get the knack for it, you can create basically any character that you need, bad guy, good guy, or in between to suit your preference. Like with any skill, character development takes practice. Think of it like getting to know a new friend. If you don't spend time with them, you won't get to know them. In the end you will grow to love them, even the bad guys (in a love to hate sort of way,) love playing them, hate to kill them (I write mystery novels after all,) and hate to say goodbye when it's time to move onto other things.
 
 So to recap:
 
+- Find your character a purpose
+- Give them a personality with strengths and weaknesses
+- Find them a name (meaningful or otherwise. Often the name jumps out at you.)
+- Get their description down. (this isn't always entirely necessary but can help)
+- Place a bit of yourself in every character (even the bad guys.) This makes it so you can play them more believably.
+- Be them. Write them. Act them. Do whatever you can to just be them.
+- Tweak and rework as necessary.
 
-* Find your character a purpose
-* Give them a personality with strengths and weaknesses
-* Find them a name (meaningful or otherwise. Often the name jumps out at you.)
-* Get their description down. (this isn't always entirely necessary but can help)
-* Place a bit of yourself in every character (even the bad guys.) This makes it so you can play them more believably.
-* Be them. Write them. Act them. Do whatever you can to just be them.
-* Tweak and rework as necessary.<div>This is just my opinions on things, and how I go about character writing. It's kind of organic, and I just let it flow. If it doesn't work for you, there are plenty of other writing sites out there that you can learn from. If you want a real glimpse into how I interact with my characters you should definitely watch <i>The Man Who Invented Christmas</i>. It's about Charles Dickens and how he wrote <i>The Christmas Carol</i>. It is a masterpiece and gives a wonderful glimpse into how my psyche works. If Dickens was sane, then so am I. But really, is anyone who writes about fictional worlds for a living (or hopes to write it for a living) really sane? ;)</div>
-
+This is just my opinions on things, and how I go about character writing. It's kind of organic, and I just let it flow. If it doesn't work for you, there are plenty of other writing sites out there that you can learn from. If you want a real glimpse into how I interact with my characters you should definitely watch _The Man Who Invented Christmas_. It's about Charles Dickens and how he wrote _The Christmas Carol_. It is a masterpiece and gives a wonderful glimpse into how my psyche works. If Dickens was sane, then so am I. But really, is anyone who writes about fictional worlds for a living (or hopes to write it for a living) really sane? ;)
