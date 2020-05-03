@@ -32,7 +32,7 @@ const Post = ({
         /* Styles for blog paragraph tags */
         main {
           p {
-            ${tw`mb-4`}
+            ${tw`mb-8 text-xl leading-9`}
           }
           li {
             ${tw`list-disc ml-4 mb-4`}
@@ -41,12 +41,19 @@ const Post = ({
       `}
     />
     <Layout>
-      <main>
+      <section
+        css={css`
+          max-width: 960px;
+          margin: 0 auto;
+        `}
+      >
         <PostTitle>{post.title}</PostTitle>
         <PostDate>{post.date}</PostDate>
-        <MDXRenderer>{post.body}</MDXRenderer>
-      </main>
-      <PostFooter {...{ previous, next }} />
+        <article css={tw`mt-24`}>
+          <MDXRenderer>{post.body}</MDXRenderer>
+        </article>
+        <PostFooter {...{ previous, next }} />
+      </section>
     </Layout>
   </>
 )
