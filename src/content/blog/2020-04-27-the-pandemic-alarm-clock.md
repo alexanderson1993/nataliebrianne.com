@@ -1,7 +1,8 @@
 ---
 title: The Pandemic Alarm Clock
 author: Natalie Brianne
-date: 2020-04-27T13:22:00.003-06:00
+date: 2020-04-27T19:22:00.003Z
+thumbnail: /images/uploads/38988314371_a84b810c2e_b.jpg
 ---
 <div class="p1" style="font-family: &quot;Helvetica Neue&quot;; font-stretch: normal; font-variant-east-asian: normal; font-variant-numeric: normal; line-height: normal;">I feel like I keep saying every time I write a post that “this one is a bit different than what I normally do.” Thing is, I don’t really know what I normally do. But I have some things on my mind, and I thought I’d share them in the best way I could.&nbsp;</div><div class="separator" style="clear: both; text-align: center;"></div><div style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img alt="Alarm clock in bedroom | ✅ Marco Verch is a Professional Pho ..." height="266" src="https://live.staticflickr.com/4739/38988314371_a84b810c2e_b.jpg" width="400" /></div>
 <div class="p2" style="font-family: &quot;Helvetica Neue&quot;; font-stretch: normal; font-variant-east-asian: normal; font-variant-numeric: normal; line-height: normal; min-height: 12px;"></div><div class="p1" style="font-family: &quot;Helvetica Neue&quot;; font-stretch: normal; font-variant-east-asian: normal; font-variant-numeric: normal; line-height: normal;">The pandemic is the wake up call I needed. That isn’t to say that I am glad that it happened. It is one of those strange moments in life where you wish that something never happened, but you don’t want to lose what you have learned from the experience. It was that way with my dad dying. Am I glad he died? Not at all. Am I grateful for the knowledge and experience that I have gained as a result? Yes. And I don’t want to go back to who I was before it.</div><div class="p2" style="font-family: &quot;Helvetica Neue&quot;; font-stretch: normal; font-variant-east-asian: normal; font-variant-numeric: normal; line-height: normal; min-height: 12px;">
