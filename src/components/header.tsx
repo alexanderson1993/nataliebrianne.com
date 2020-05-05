@@ -5,6 +5,7 @@ import Wordmark from "./wordmark"
 import tw from "twin.macro"
 import { Link } from "gatsby"
 import { useScrollPosition } from "@n8tb1t/use-scroll-position"
+import { css } from "@emotion/core"
 
 const NavLink = props => {
   return (
@@ -31,11 +32,14 @@ const Header = ({ siteTitle }) => {
 
   return (
     <header
-      css={
+      css={[
+        css`
+          background-color: rgba(26, 32, 44, 0.9);
+        `,
         collapse
           ? tw`sticky top-0 flex justify-between items-center h-20 border-gray-400 border-b transition-all duration-500`
-          : tw`sticky top-0 flex justify-between items-center h-24 border-transparent transition-all duration-500`
-      }
+          : tw`sticky top-0 flex justify-between items-center h-24 border-transparent transition-all duration-500`,
+      ]}
     >
       <div css={tw`h-full flex items-center`}>
         <Logo css={tw`h-full m-4 p-2`} />

@@ -3,16 +3,37 @@ module.exports = {
     title: `Natalie Brianne Books`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `@gatsbyjs`,
+    social: [
+      {
+        name: `Twitter`,
+        url: `https://twitter.com/gatsbyjs`,
+      },
+      {
+        name: `GitHub`,
+        url: `https://github.com/gatsbyjs`,
+      },
+    ],
   },
   plugins: [
     {
-      resolve: `gatsby-theme-blog-core`,
+      resolve: `gatsby-plugin-mdx`,
       options: {
-        // basePath defaults to `/`
-        basePath: `/blog`,
+        extensions: [`.mdx`, `.md`],
+        gatsbyRemarkPlugins: [
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              // should this be configurable by the end-user?
+              maxWidth: 1380,
+              linkImagesToOriginal: false,
+            },
+          },
+          { resolve: `gatsby-remark-copy-linked-files` },
+          { resolve: `gatsby-remark-smartypants` },
+        ],
+        remarkPlugins: [require(`remark-slug`)],
       },
     },
-
     `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-typescript`,
     `gatsby-plugin-react-helmet`,
@@ -21,6 +42,13 @@ module.exports = {
       options: {
         name: `images`,
         path: `${__dirname}/src/images`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `staticImages`,
+        path: `${__dirname}/static`,
       },
     },
     {
