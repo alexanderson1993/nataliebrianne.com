@@ -1491,6 +1491,11 @@
   resolved "https://registry.yarnpkg.com/@mdx-js/react/-/react-1.5.9.tgz#31873ab097fbe58c61c7585fc0be64e83182b6df"
   integrity sha512-rengdUSedIdIQbXPSeafItCacTYocARAjUA51b6R1KNHmz+59efz7UmyTKr73viJQZ98ouu7iRGmOTtjRrbbWA==
 
+"@mdx-js/react@^1.6.0":
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/@mdx-js/react/-/react-1.6.1.tgz#46e56602c1f513452db2f1f4185f56dc60a4fcb7"
+  integrity sha512-jXBSWdWFPK2fs3johKb0hQFsf/x/C24XQYQwMhj8FxwlBgf7+NGATwXFs6pGkKd5/JfK9HXmbOcQ78MYoIZyxA==
+
 "@mdx-js/runtime@^1.5.9":
   version "1.5.9"
   resolved "https://registry.yarnpkg.com/@mdx-js/runtime/-/runtime-1.5.9.tgz#77d961c2aebc18d77899ea4722e3918cfa34775f"
@@ -6734,22 +6739,6 @@ gatsby-telemetry@^1.3.0:
     stack-trace "^0.0.10"
     stack-utils "1.0.2"
     uuid "3.4.0"
-
-gatsby-theme-blog-core@^1.4.5:
-  version "1.4.5"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-blog-core/-/gatsby-theme-blog-core-1.4.5.tgz#9af5344dddbc04febb71248a335b779025f40585"
-  integrity sha512-v9/P9UNMIVKry9yrFaYjRfgUE962WAsBskUHsASNg9DRa9ox/Bevr7U64sNJ9k5QESdruFAM+1u1/u7Qr3ifzg==
-  dependencies:
-    "@mdx-js/mdx" "^1.6.0"
-    gatsby-core-utils "^1.2.0"
-    gatsby-plugin-mdx "^1.2.4"
-    gatsby-plugin-sharp "^2.6.0"
-    gatsby-remark-copy-linked-files "^2.3.1"
-    gatsby-remark-images "^3.3.0"
-    gatsby-remark-smartypants "^2.3.0"
-    gatsby-source-filesystem "^2.3.0"
-    gatsby-transformer-sharp "^2.5.0"
-    remark-slug "^5.1.2"
 
 gatsby-transformer-sharp@^2.5.0:
   version "2.5.0"
