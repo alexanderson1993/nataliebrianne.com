@@ -26,7 +26,11 @@ const PostList = ({ posts }) => (
       </h1>
       <section css={tw`m-auto grid grid-cols-12 gap-8`}>
         {posts.map(({ node }, i) => (
-          <PostLink key={node.slug} span={i % 5 <= 1 ? 6 : 4} {...node} />
+          <PostLink
+            key={node.fields.slug}
+            span={i % 5 <= 1 ? 6 : 4}
+            {...node}
+          />
         ))}
       </section>
     </div>
