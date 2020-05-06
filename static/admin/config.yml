@@ -2,7 +2,6 @@ backend:
   name: git-gateway
   branch: master
   repo: alexanderson1993/nataliebrianne.com
-publish_mode: editorial_workflow
 
 media_folder: "src/content/assets"
 public_folder: "/src/content/assets"
