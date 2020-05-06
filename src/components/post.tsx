@@ -57,10 +57,10 @@ const Post = ({
               }
 
               p {
-                ${tw`mb-8 text-xl leading-9`}
+                ${tw`mb-8 text-2xl leading-10`}
               }
               li {
-                ${tw`text-xl list-disc ml-4 mb-4`}
+                ${tw`text-2xl list-disc ml-4 mb-4`}
               }
               ul {
                 ${tw`mb-8`}
@@ -95,7 +95,12 @@ const Post = ({
               src={post.frontmatter.thumbnail?.childImageSharp?.fluid}
             ></PostImage>
             <article
-              css={tw`mt-12`}
+              css={[
+                tw`mt-12`,
+                css`
+                  max-width: 700px;
+                `,
+              ]}
               dangerouslySetInnerHTML={{ __html: post.html }}
             ></article>
             <PostFooter {...{ previous, next }} />

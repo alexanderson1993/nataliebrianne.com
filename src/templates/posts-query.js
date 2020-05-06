@@ -15,6 +15,7 @@ export const query = graphql`
       }
     }
     allMarkdownRemark(
+      filter: { fileAbsolutePath: { glob: "**/posts/**" } }
       sort: { fields: [frontmatter___date, frontmatter___title], order: DESC }
     ) {
       edges {
@@ -30,8 +31,8 @@ export const query = graphql`
             tags
             thumbnail {
               childImageSharp {
-                fluid {
-                  src
+                fluid(maxHeight: 500, webpQuality: 100) {
+                  ...GatsbyImageSharpFluid_withWebp_tracedSVG
                 }
               }
             }

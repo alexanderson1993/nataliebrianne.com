@@ -11,6 +11,7 @@ import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
 import tw from "twin.macro"
+import "./layout.css"
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -25,9 +26,10 @@ const Layout = ({ children }) => {
 
   return (
     <>
-      <Header siteTitle={data.site.siteMetadata.title} />
-      <div css={tw`h-screen flex items-center justify-center`}>
-        <main>{children}</main>
+      <div css={tw`min-h-screen flex flex-col`}>
+        <Header siteTitle={data.site.siteMetadata.title} />
+        <main css={tw`flex-grow my-10 flex flex-col`}>{children}</main>
+        <footer css={tw`text-center`}>© {new Date().getFullYear()}</footer>
         {/* <footer
     css={css({
       mt: 4,
