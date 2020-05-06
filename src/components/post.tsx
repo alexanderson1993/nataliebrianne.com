@@ -70,6 +70,12 @@ const Post = ({
                 border-radius: 1rem;
                 box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
                   0 10px 10px -5px rgba(0, 0, 0, 0.04);
+
+                transition: box-shadow 0.2s ease;
+                &:hover {
+                  box-shadow: 0 20px 20px -5px rgba(0, 0, 0, 0.2),
+                    0 10px 5px -5px rgba(0, 0, 0, 0.08);
+                }
               }
             }
           }

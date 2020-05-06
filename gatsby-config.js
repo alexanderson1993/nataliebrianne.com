@@ -1,16 +1,12 @@
 module.exports = {
   siteMetadata: {
     title: `Natalie Brianne Books`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    description: `Words are the threads that weave the tapestries of life.`,
+    author: `@NatalieBriBooks`,
     social: [
       {
         name: `Twitter`,
-        url: `https://twitter.com/gatsbyjs`,
-      },
-      {
-        name: `GitHub`,
-        url: `https://github.com/gatsbyjs`,
+        url: `https://twitter.com/NatalieBriBooks`,
       },
     ],
   },

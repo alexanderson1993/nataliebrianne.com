@@ -1,5 +1,6 @@
 import { Link } from "gatsby"
 import tw from "twin.macro"
+import { css } from "@emotion/core"
 
 const PostLink = ({
   frontmatter: { title, date },
@@ -9,6 +10,7 @@ const PostLink = ({
 }) => (
   <Link
     css={[
+      css``,
       tw`block no-underline p-4 flex flex-col justify-end`,
       span === 6
         ? tw`col-span-6 h-64 bg-gray-800`
