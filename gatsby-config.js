@@ -16,22 +16,39 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `gatsby-plugin-mdx`,
+      resolve: "gatsby-transformer-remark",
       options: {
-        extensions: [`.mdx`, `.md`],
-        gatsbyRemarkPlugins: [
+        pedantic: false,
+        gfm: true,
+        plugins: [
+          {
+            resolve: `gatsby-remark-footnotes`,
+            options: {
+              footnoteBackRefPreviousElementDisplay: "inline",
+              footnoteBackRefDisplay: "inline",
+              footnoteBackRefAnchorStyle: `text-decoration: none;`,
+              footnoteBackRefInnerTextStartPosition: "front",
+              useFootnoteMarkerText: false, // Defaults to false
+            },
+          },
+          {
+            resolve: "gatsby-remark-normalize-paths",
+            options: {
+              pathFields: ["image", "cover", "thumbnail"],
+            },
+          },
           {
             resolve: `gatsby-remark-images`,
             options: {
               // should this be configurable by the end-user?
-              maxWidth: 1380,
+              maxWidth: 960,
               linkImagesToOriginal: false,
             },
           },
-          { resolve: `gatsby-remark-copy-linked-files` },
-          { resolve: `gatsby-remark-smartypants` },
+          `gatsby-remark-copy-linked-files`,
+          `gatsby-remark-smartypants`,
+          `gatsby-remark-slug`,
         ],
-        remarkPlugins: [require(`remark-slug`)],
       },
     },
     `gatsby-plugin-netlify-cms`,
@@ -40,22 +57,19 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `images`,
         path: `${__dirname}/src/images`,
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `staticImages`,
-        path: `${__dirname}/static`,
+        path: `${__dirname}/src/content/posts`,
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/src/content/posts`,
-        name: `content/posts`,
+        path: `${__dirname}/src/content/assets`,
       },
     },
     `gatsby-transformer-sharp`,

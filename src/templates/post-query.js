@@ -14,30 +14,49 @@ export const query = graphql`
         }
       }
     }
-    blogPost(id: { eq: $id }) {
+    markdownRemark(id: { eq: $id }) {
       id
+      html
       excerpt
-      body
-      slug
-      title
-      tags
-      keywords
-      thumbnail
-      date(formatString: "MMMM DD, YYYY")
+      timeToRead
+      fields {
+        slug
+      }
+      frontmatter {
+        title
+        tags
+        keywords
+        thumbnail {
+          childImageSharp {
+            fluid(maxHeight: 500, webpQuality: 100) {
+              ...GatsbyImageSharpFluid_withWebp_tracedSVG
+            }
+          }
+        }
+        date(formatString: "MMMM DD, YYYY")
+      }
     }
-    previous: blogPost(id: { eq: $previousId }) {
+    previous: markdownRemark(id: { eq: $previousId }) {
       id
       excerpt
-      slug
-      title
-      date(formatString: "MMMM DD, YYYY")
+      fields {
+        slug
+      }
+      frontmatter {
+        title
+        date(formatString: "MMMM DD, YYYY")
+      }
     }
-    next: blogPost(id: { eq: $nextId }) {
+    next: markdownRemark(id: { eq: $nextId }) {
       id
       excerpt
-      slug
-      title
-      date(formatString: "MMMM DD, YYYY")
+      fields {
+        slug
+      }
+      frontmatter {
+        title
+        date(formatString: "MMMM DD, YYYY")
+      }
     }
   }
 `

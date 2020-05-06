@@ -3,8 +3,8 @@ backend:
   branch: master
   repo: alexanderson1993/nataliebrianne.com
 
-media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
-public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+media_folder: "src/content/assets"
+public_folder: "/src/content/assets"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "blog"
@@ -29,18 +29,24 @@ collections: # A list of collections the CMS should be able to edit
           required: false,
         }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
       - {
           label: "Featured Image",
           name: "thumbnail",
           widget: "image",
           required: false,
         }
+      - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
+      - {
+          label: "Keywords (SEO)",
+          name: "keywords",
+          widget: "list",
+          required: false,
+        }
   - name: "works"
     label: "Current Works"
     label_singular: "Work"
-    folder: "src/pages/works"
+    folder: "src/content/works"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true
     delete: true
@@ -48,6 +54,12 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Title", name: "title", widget: "string", tagname: "h1" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
+      - {
+          label: "Keywords (SEO)",
+          name: "keywords",
+          widget: "list",
+          required: false,
+        }
       - label: "Progress"
         name: "progress"
         widget: "number"
@@ -88,6 +100,12 @@ collections: # A list of collections the CMS should be able to edit
           required: false,
         }
       - { label: "Tags", name: "tags", widget: "list", required: false }
+      - {
+          label: "Keywords (SEO)",
+          name: "keywords",
+          widget: "list",
+          required: false,
+        }
   - name: "gallery"
     label: "Gallery"
     label_singular: "Exhibit"
@@ -99,13 +117,14 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Title", name: "title", widget: "string", tagname: "h1" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Image", name: "image", widget: "image", required: false }
       - {
-          label: "Image",
-          name: "image",
-          widget: "image",
+          label: "Keywords (SEO)",
+          name: "keywords",
+          widget: "list",
           required: false,
         }
- - label: "Pages"
+  - label: "Pages"
     name: "pages"
     files:
       - label: "Front Page"
@@ -114,25 +133,25 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: "Body", name: "body", widget: "markdown" }
           - { label: "Descriptions", name: "descriptions", widget: list }
-          - label: "Social",
+          - label: "Social"
             name: "social"
             widget: list
-            fields: 
-              - {label: Label, name: label, widget: string}
-              - {label: Icon, name: icon, widget: string}
-              - {label: Link, name: link, widget: string}
+            fields:
+              - { label: Label, name: label, widget: string }
+              - { label: Icon, name: icon, widget: string }
+              - { label: Link, name: link, widget: string }
       - label: "About Page"
         name: "about"
-        file: "src/content/about.yml"
+        file: "src/content/about.md"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Photo, name: image, widget: image}
+          - { label: Title, name: title, widget: string }
+          - { label: Photo, name: image, widget: image }
           - { label: "Body", name: "body", widget: "markdown" }
-      - label: "About Page"
-        name: "about"
-        file: "src/content/about.yml"
+      - label: "Contact"
+        name: "contact"
+        file: "src/content/contact.md"
         fields:
-          - {label: Title, name: title, widget: string}
+          - { label: Title, name: title, widget: string }
           - { label: "Body", name: "body", widget: "markdown" }
-          - {label: Email, name: email, widget: string, required: false}
-          - {label: Phone, name: phone, widget: string, required: false}
+          - { label: Email, name: email, widget: string, required: false }
+          - { label: Phone, name: phone, widget: string, required: false }

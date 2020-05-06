@@ -14,15 +14,28 @@ export const query = graphql`
         }
       }
     }
-    allBlogPost(sort: { fields: [date, title], order: DESC }, limit: 1000) {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date, frontmatter___title], order: DESC }
+    ) {
       edges {
         node {
           id
           excerpt
-          slug
-          title
-          date(formatString: "MMMM DD, YYYY")
-          tags
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            date(formatString: "MMMM DD, YYYY")
+            tags
+            thumbnail {
+              childImageSharp {
+                fluid {
+                  src
+                }
+              }
+            }
+          }
         }
       }
     }
