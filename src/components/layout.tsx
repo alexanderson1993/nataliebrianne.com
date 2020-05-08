@@ -10,8 +10,7 @@ import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
-import tw from "twin.macro"
-import "./layout.css"
+import "./styles.css"
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -26,10 +25,10 @@ const Layout = ({ children }) => {
 
   return (
     <>
-      <div css={tw`min-h-screen flex flex-col`}>
+      <div className={`min-h-screen flex flex-col`}>
         <Header siteTitle={data.site.siteMetadata.title} />
-        <main css={tw`flex-grow my-10 flex flex-col`}>{children}</main>
-        <footer css={tw`text-center`}>© {new Date().getFullYear()}</footer>
+        <main className={`flex-grow my-10 flex flex-col`}>{children}</main>
+        <footer className={`text-center`}>© {new Date().getFullYear()}</footer>
         {/* <footer
     css={css({
       mt: 4,

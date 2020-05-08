@@ -1,5 +1,4 @@
 import { Link } from "gatsby"
-import tw from "twin.macro"
 import { css } from "@emotion/core"
 import Img from "gatsby-image"
 
@@ -14,16 +13,14 @@ const PostLink = ({
 
   return (
     <Link
-      css={[
-        css`
-          &:hover > div > div {
-            filter: saturate(1) blur(0);
-          }
-        `,
-        tw`block relative no-underline p-4 flex flex-col justify-end`,
-        span === 6 ? tw`col-span-6 h-64 ` : tw`col-span-4 h-56 `,
-        !src && tw`bg-gray-800`,
-      ]}
+      className={`block relative no-underline p-4 flex flex-col justify-end ${
+        span === 6 ? `col-span-6 h-64 ` : `col-span-4 h-56 `
+      } ${!src ? `bg-gray-800` : ""}`}
+      css={css`
+        &:hover > div > div {
+          filter: saturate(1) blur(0);
+        }
+      `}
       to={slug}
     >
       {src && (
@@ -49,7 +46,7 @@ const PostLink = ({
           <Img fluid={src}></Img>
         </div>
       )}
-      <h2 css={tw`text-2xl`}>{title || slug}</h2>
+      <h2 className={`text-2xl`}>{title || slug}</h2>
       <small>{date}</small>
       <p>{excerpt}</p>
     </Link>

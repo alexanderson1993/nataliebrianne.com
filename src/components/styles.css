@@ -31,3 +31,9 @@
   font-weight: bold;
   src: url("../fonts/SukhumvitSet-Bold.ttf");
 }
+
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;

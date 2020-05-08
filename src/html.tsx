@@ -1,14 +1,12 @@
 import React from "react"
 import PropTypes from "prop-types"
-import tw from "twin.macro"
 import { css } from "@emotion/core"
-
 export default function HTML(props) {
   return (
     <html
       {...props.htmlAttributes}
+      className="antialiased leading-relaxed dark:text-gray-100 text-gray-900 transition-colors duration-500"
       css={[
-        tw`antialiased leading-relaxed text-gray-100`,
         css`
           font-family: SukhumvitSet, system-ui, -apple-system,
             BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial,
@@ -28,7 +26,7 @@ export default function HTML(props) {
       </head>
       <body
         {...props.bodyAttributes}
-        css={tw`min-h-screen bg-gray-900 text-gray-100 `}
+        className="min-h-screen dark:bg-gray-900 dark:text-gray-100 bg-gray-100 text-gray-900 transition-colors duration-500"
       >
         {props.preBodyComponents}
         <div

@@ -2,7 +2,11 @@
 title: The Pandemic Alarm Clock
 author: Natalie Brianne
 date: 2020-04-27T19:22:00.003Z
-thumbnail: /images/uploads/38988314371_a84b810c2e_b.jpg
+thumbnail: /src/content/assets/38988314371_a84b810c2e_b.jpg
+tags:
+  - Different
+keywords:
+  - Pandemic
 ---
 
 I feel like I keep saying every time I write a post that “this one is a bit different than what I normally do.” Thing is, I don’t really know what I normally do. But I have some things on my mind, and I thought I’d share them in the best way I could.

@@ -9,7 +9,6 @@ import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
 import BioContent from "./bio-content"
-import tw from "twin.macro"
 
 const Bio = () => {
   const data = useStaticQuery(bioQuery)
@@ -21,15 +20,15 @@ const Bio = () => {
   } = data
 
   return (
-    <div css={tw`mb-4 items-center flex`}>
+    <div className="mb-4 items-center flex">
       {avatar ? (
         <Image
           fixed={avatar.childImageSharp.fixed}
           alt={author}
-          css={tw`mr-2 mb-0 w-12 rounded-full`}
+          className="mr-2 mb-0 w-12 rounded-full"
         />
       ) : (
-        <div css={tw`mr-2 mb-0 w-12 rounded-full`} role="presentation" />
+        <div className="mr-2 mb-0 w-12 rounded-full" role="presentation" />
       )}
       <div>
         <BioContent />

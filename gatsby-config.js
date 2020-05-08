@@ -59,7 +59,7 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/src/content/posts`,
+        path: `${__dirname}/src/content`,
       },
     },
     {
@@ -73,16 +73,17 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `Natalie Brianne`,
+        short_name: `Natalie`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#FBD5D7`,
+        theme_color: `#FBD5D7`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/icon.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-netlify`,
+    `gatsby-plugin-postcss`,
     {
       resolve: `gatsby-plugin-emotion`,
       options: {

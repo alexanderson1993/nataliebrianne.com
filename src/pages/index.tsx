@@ -17,7 +17,7 @@ const SocialLink = ({ icon, label, link }) => {
       href={link}
       target="_blank"
       title={label}
-      css={tw`mx-4 p-2 border border-current rounded transition duration-200 hover:bg-gray-800 opacity-75 hover:opacity-100`}
+      className={`mx-4 p-2 border border-current rounded transition duration-200 hover:bg-gray-800 opacity-75 hover:opacity-100`}
     >
       <Icon aria-label={label} />
     </a>
@@ -32,7 +32,7 @@ const IndexPage = ({ data }) => {
         description={site.siteMetadata.description}
       />
       <section
-        css={tw`flex-grow flex flex-col justify-center items-center text-center pb-40`}
+        className={`flex-grow flex flex-col justify-center items-center text-center pb-40`}
       >
         <div
           css={css`
@@ -45,10 +45,10 @@ const IndexPage = ({ data }) => {
           `}
           dangerouslySetInnerHTML={{ __html: front.html }}
         ></div>
-        <div css={tw`text-xl font-semibold mt-4 mb-8`}>
+        <div className={`text-xl font-semibold mt-4 mb-8`}>
           {front.frontmatter.descriptions}
         </div>
-        <div css={tw`text-2xl flex justify-between`}>
+        <div className={`text-2xl flex justify-between`}>
           {front.frontmatter.social.map(s => (
             <SocialLink key={s.link} {...s} />
           ))}
