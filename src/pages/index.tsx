@@ -1,61 +1,86 @@
 import React from "react"
 import tw from "twin.macro"
 import { css, keyframes } from "@emotion/core"
+import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Logo from "../components/logo"
+import { Link } from "gatsby"
+import * as icons from "react-icons/all"
+import IndexBackground from "../components/index-background"
 
-const fadeUp = keyframes`
-  from {
-    transform: translate3d(0,100px,0) scale(3);
-    filter: blur(50px);
-    opacity:0;
-  }
-  to {
-    transform: translate3d(0,0,0) scale(1);
-    filter: blur(0px);
-    opacity:1;
-  }
-`
-
-console.log({
-  ...tw`text-white text-6xl font-bold`,
-  ...css`
-    opacity: 0.5;
-  `,
-})
-const IndexPage = () => (
-  <Layout>
-    <SEO title="Coming Soon" />
-    <div
-      css={css`
-        animation: ${fadeUp} 5s ease 1;
-      `}
+const SocialLink = ({ icon, label, link }) => {
+  const Icon = icons[icon]
+  if (!Icon) return null
+  return (
+    <a
+      href={link}
+      target="_blank"
+      title={label}
+      className={`mx-4 p-2 border border-current rounded transition duration-200 hover:bg-gray-800 opacity-75 hover:opacity-100`}
     >
-      <div css={tw`relative`}>
-        <Logo />
-        <Logo
+      <Icon aria-label={label} />
+    </a>
+  )
+}
+const IndexPage = ({ data }) => {
+  const { front, site } = data
+  return (
+    <Layout>
+      <SEO
+        title={site.siteMetadata.title}
+        description={site.siteMetadata.description}
+      />
+      <IndexBackground />
+      <section
+        className={`flex-grow flex flex-col justify-center items-center text-center pb-40 z-10`}
+      >
+        <div
           css={css`
-            filter: blur(20px);
-            position: absolute;
-            top: 0;
-            z-index: -1;
-            width: 100%;
-            transform: scale(1.1);
+            p {
+              ${tw`text-3xl font-thin`}
+            }
+            h1 {
+              ${tw`text-6xl font-extrabold`}
+            }
           `}
-        />
-      </div>
-      <h1 css={tw`text-white text-6xl font-bold text-center`}>Coming Soon</h1>
-      <div
-        css={css`
-          ${tw`h-0`}
-          border-radius: 50%;
-          box-shadow: 0 -5px 50px 10px rgba(255, 255, 255, 0.25);
-        `}
-      ></div>
-    </div>
-  </Layout>
-)
+          dangerouslySetInnerHTML={{ __html: front.html }}
+        ></div>
+        <div className={`text-xl font-semibold mt-4 mb-8`}>
+          {front.frontmatter.descriptions}
+        </div>
+        <div className={`text-2xl flex justify-between`}>
+          {front.frontmatter.social.map(s => (
+            <SocialLink key={s.link} {...s} />
+          ))}
+        </div>
+      </section>
+    </Layout>
+  )
+}
 
 export default IndexPage
+
+export const query = graphql`
+  query Front {
+    front: markdownRemark(fileAbsolutePath: { glob: "**/front.md" }) {
+      id
+      html
+      frontmatter {
+        social {
+          icon
+          label
+          link
+        }
+        descriptions
+      }
+    }
+    site {
+      siteMetadata {
+        title
+        description
+      }
+    }
+  }
+`

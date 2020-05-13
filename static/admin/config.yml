@@ -2,10 +2,9 @@ backend:
   name: git-gateway
   branch: master
   repo: alexanderson1993/nataliebrianne.com
-publish_mode: editorial_workflow
 
-media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
-public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+media_folder: "src/content/assets"
+public_folder: "/src/content/assets"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "blog"
@@ -30,6 +29,69 @@ collections: # A list of collections the CMS should be able to edit
           required: false,
         }
       - { label: "Publish Date", name: "date", widget: "datetime" }
+      - {
+          label: "Featured Image",
+          name: "thumbnail",
+          widget: "image",
+          required: false,
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - {
+          label: "Keywords (SEO)",
+          name: "keywords",
+          widget: "list",
+          required: false,
+        }
+  - name: "works"
+    label: "Current Works"
+    label_singular: "Work"
+    folder: "src/content/works"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    create: true
+    delete: true
+    fields:
+      - { label: "Title", name: "title", widget: "string", tagname: "h1" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - {
+          label: "Keywords (SEO)",
+          name: "keywords",
+          widget: "list",
+          required: false,
+        }
+      - label: "Progress"
+        name: "progress"
+        widget: "number"
+        default: 0
+        valueType: "int"
+        min: 0
+        max: 100
+        step: 1
+        required: false
+  - name: "short_stories"
+    label: "Short Stories"
+    label_singular: "Story"
+    folder: "src/content/short_stories"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    create: true
+    delete: true
+    fields:
+      - { label: "Title", name: "title", widget: "string", tagname: "h1" }
+      - {
+          label: "Author",
+          name: "author",
+          widget: "string",
+          default: "Natalie Brianne",
+        }
+      - {
+          label: "Author Link",
+          name: "authorURL",
+          widget: "string",
+          default: "https://twitter.com/NatalieBriBooks",
+          required: false,
+        }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
       - {
           label: "Featured Image",
@@ -38,3 +100,58 @@ collections: # A list of collections the CMS should be able to edit
           required: false,
         }
       - { label: "Tags", name: "tags", widget: "list", required: false }
+      - {
+          label: "Keywords (SEO)",
+          name: "keywords",
+          widget: "list",
+          required: false,
+        }
+  - name: "gallery"
+    label: "Gallery"
+    label_singular: "Exhibit"
+    folder: "src/content/gallery"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    create: true
+    delete: true
+    fields:
+      - { label: "Title", name: "title", widget: "string", tagname: "h1" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Image", name: "image", widget: "image", required: false }
+      - {
+          label: "Keywords (SEO)",
+          name: "keywords",
+          widget: "list",
+          required: false,
+        }
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "Front Page"
+        name: "frontpage"
+        file: "src/content/front.md"
+        fields:
+          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Descriptions", name: "descriptions", widget: list }
+          - label: "Social"
+            name: "social"
+            widget: list
+            fields:
+              - { label: Label, name: label, widget: string }
+              - { label: Icon, name: icon, widget: string }
+              - { label: Link, name: link, widget: string }
+      - label: "About Page"
+        name: "about"
+        file: "src/content/about.md"
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Photo, name: image, widget: image }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Contact"
+        name: "contact"
+        file: "src/content/contact.md"
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: Email, name: email, widget: string, required: false }
+          - { label: Phone, name: phone, widget: string, required: false }
