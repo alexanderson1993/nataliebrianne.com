@@ -8,10 +8,7 @@ export const query = graphql`
     site {
       siteMetadata {
         title
-        social {
-          name
-          url
-        }
+        siteUrl
       }
     }
     markdownRemark(id: { eq: $id }) {

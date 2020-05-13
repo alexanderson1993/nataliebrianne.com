@@ -15,7 +15,7 @@ const Post = ({
   data: {
     markdownRemark: post,
     site: {
-      siteMetadata: { title },
+      siteMetadata: { title, siteUrl },
     },
     previous,
     next,
@@ -28,6 +28,7 @@ const Post = ({
         title={post.frontmatter.title}
         description={post.excerpt}
         keywords={post.frontmatter.keywords}
+        image={`${siteUrl}${post.fields.slug}twitter-card.jpg`}
       />
       <Global
         styles={css`
@@ -103,7 +104,7 @@ const Post = ({
               ]}
               dangerouslySetInnerHTML={{ __html: post.html }}
             ></article>
-            <PostFooter {...{ previous, next }} />
+            <PostFooter siteUrl={siteUrl} post={post} {...{ previous, next }} />
           </section>
         </div>
       </Layout>

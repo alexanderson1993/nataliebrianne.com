@@ -1,21 +1,16 @@
 import React from "react"
-import useLocalStorage from "../hooks/useLocalStorage"
+import { useTheme } from "emotion-theming"
+import { FiMoon, FiSun } from "react-icons/fi"
 
 const DarkToggle = () => {
-  const [on, setOn] = useLocalStorage("color-mode", null)
-  React.useEffect(() => {
-    if (typeof window === "undefined") return
-    if (on === "dark") {
-      document.documentElement.classList.remove("mode-light")
-      document.documentElement.classList.add("mode-dark")
-    } else {
-      document.documentElement.classList.add("mode-light")
-      document.documentElement.classList.remove("mode-dark")
-    }
-  }, [on])
+  const { colorMode, setColorMode } = useTheme()
+
   return (
-    <div onClick={() => setOn(on === "dark" ? "light" : "dark")}>
-      {on ? "dark" : "light"}
+    <div
+      className="text-2xl mx-6"
+      onClick={() => setColorMode(colorMode === "dark" ? "light" : "dark")}
+    >
+      {colorMode === "dark" ? <FiMoon /> : <FiSun />}
     </div>
   )
 }

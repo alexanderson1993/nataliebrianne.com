@@ -10,7 +10,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        cyan: "#9cdbff",
+        text: "var(--color-text)",
+        background: "var(--color-background)",
+        primary: "var(--color-primary)",
+        backgroundOff: "var(--color-background-off)",
       },
       spacing: {
         "96": "24rem",

@@ -63,6 +63,7 @@ exports.createPages = async (
     {
       allMarkdownRemark(
         sort: { fields: [frontmatter___date, frontmatter___title] }
+        filter: { fileAbsolutePath: { glob: "**/posts/**" } }
       ) {
         edges {
           node {

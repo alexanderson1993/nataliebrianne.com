@@ -8,6 +8,7 @@ import SEO from "../components/seo"
 import Logo from "../components/logo"
 import { Link } from "gatsby"
 import * as icons from "react-icons/all"
+import IndexBackground from "../components/index-background"
 
 const SocialLink = ({ icon, label, link }) => {
   const Icon = icons[icon]
@@ -31,8 +32,9 @@ const IndexPage = ({ data }) => {
         title={site.siteMetadata.title}
         description={site.siteMetadata.description}
       />
+      <IndexBackground />
       <section
-        className={`flex-grow flex flex-col justify-center items-center text-center pb-40`}
+        className={`flex-grow flex flex-col justify-center items-center text-center pb-40 z-10`}
       >
         <div
           css={css`
@@ -78,10 +80,6 @@ export const query = graphql`
       siteMetadata {
         title
         description
-        social {
-          name
-          url
-        }
       }
     }
   }

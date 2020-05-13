@@ -11,8 +11,88 @@ import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
 import "./styles.css"
+import { ThemeProvider } from "emotion-theming"
+import getInitialColorMode from "../getInitialColorMode"
+import tw from "twin.macro"
+import useLocalStorage from "../hooks/useLocalStorage"
+
+const theme = {
+  colors: {
+    primary: "hotpink",
+  },
+}
+declare global {
+  interface Window {
+    COLORS: {
+      light: {
+        text: string
+        background: string
+        primary: string
+        backgroundOff: string
+      }
+      dark: {
+        text: string
+        background: string
+        primary: string
+        backgroundOff: string
+      }
+    }
+  }
+}
 
 const Layout = ({ children }) => {
+  const [colorMode, rawSetColorMode] = React.useState(undefined)
+
+  function setColorMode(newValue) {
+    const root = window.document.documentElement
+    // 1. Update React color-mode state
+    rawSetColorMode(newValue)
+    // 2. Update localStorage
+    localStorage.setItem("color-mode", newValue)
+    // 3. Update each color
+    root.style.setProperty(
+      "--color-text",
+      newValue === "light" ? window.COLORS.light.text : window.COLORS.dark.text
+    )
+    root.style.setProperty(
+      "--color-background",
+      newValue === "light"
+        ? window.COLORS.light.background
+        : window.COLORS.dark.background
+    )
+    root.style.setProperty(
+      "--color-background-off",
+      newValue === "light"
+        ? window.COLORS.light.backgroundOff
+        : window.COLORS.dark.backgroundOff
+    )
+    root.style.setProperty(
+      "--color-primary",
+      newValue === "light"
+        ? window.COLORS.light.primary
+        : window.COLORS.dark.primary
+    )
+    console.log(colorMode)
+    root.style.setProperty(
+      "--bg-opacity-dark",
+      newValue === "light" ? "0" : "0.5"
+    )
+    root.style.setProperty(
+      "--bg-opacity-light",
+      newValue === "light" ? "0.5" : "0"
+    )
+    root.style.setProperty("--initial-color-mode", newValue)
+  }
+
+  React.useEffect(() => {
+    const root = window.document.documentElement
+    const initialColorValue = root.style.getPropertyValue(
+      "--initial-color-mode"
+    )
+
+    setColorMode(initialColorValue.replace(/"/g, ""))
+  }, [])
+
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
       site {
@@ -24,42 +104,15 @@ const Layout = ({ children }) => {
   `)
 
   return (
-    <>
-      <div className={`min-h-screen flex flex-col`}>
+    <ThemeProvider theme={{ ...theme, colorMode, setColorMode }}>
+      <div className={`min-h-screen flex flex-col z-10`}>
         <Header siteTitle={data.site.siteMetadata.title} />
-        <main className={`flex-grow my-10 flex flex-col`}>{children}</main>
-        <footer className={`text-center`}>© {new Date().getFullYear()}</footer>
-        {/* <footer
-    css={css({
-      mt: 4,
-      pt: 3,
-    })}
-  >
-    © {new Date().getFullYear()}, Powered by
-    {` `}
-    <Styled.a href="https://www.gatsbyjs.org">Gatsby</Styled.a>
-    {` `}&bull;{` `}
-    {socialLinks
-      ? socialLinks.map((platform, i, arr) => (
-          <Fragment key={platform.url}>
-            <Styled.a
-              href={platform.url}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              {platform.name}
-            </Styled.a>
-            {arr.length - 1 !== i && (
-              <Fragment>
-                {` `}&bull;{` `}
-              </Fragment>
-            )}
-          </Fragment>
-        ))
-      : null}
-  </footer> */}
+        <main className={`flex-grow my-10 flex flex-col relative`}>
+          {children}
+        </main>
+        <footer css={tw`z-10 text-center`}>© {new Date().getFullYear()}</footer>
       </div>
-    </>
+    </ThemeProvider>
   )
 }
 

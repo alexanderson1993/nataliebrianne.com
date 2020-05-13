@@ -1,11 +1,12 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { css } from "@emotion/core"
+
 export default function HTML(props) {
   return (
     <html
       {...props.htmlAttributes}
-      className="antialiased leading-relaxed dark:text-gray-100 text-gray-900 transition-colors duration-500"
+      className="antialiased leading-relaxed text-text bg-background transition-colors duration-500"
       css={[
         css`
           font-family: SukhumvitSet, system-ui, -apple-system,
@@ -26,7 +27,7 @@ export default function HTML(props) {
       </head>
       <body
         {...props.bodyAttributes}
-        className="min-h-screen dark:bg-gray-900 dark:text-gray-100 bg-gray-100 text-gray-900 transition-colors duration-500"
+        className="min-h-screen text-text bg-background transition-colors duration-500"
       >
         {props.preBodyComponents}
         <div

@@ -9,7 +9,7 @@ const PostImage = ({ src }) => {
       css={css`
         width: 100vw;
         position: relative;
-        z-index: -1;
+
         left: 50%;
         right: 50%;
         margin-left: -50vw;

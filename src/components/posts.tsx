@@ -8,7 +8,6 @@ const Posts = ({ location, data }) => {
   const { allMarkdownRemark, site } = data
   const posts = allMarkdownRemark.edges
   const siteTitle = site.siteMetadata.title
-  const socialLinks = site.siteMetadata.social
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="Home" />
