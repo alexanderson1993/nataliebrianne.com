@@ -15,7 +15,6 @@ social:
     icon: FaGoodreadsG
     link: https://goodreads.com/
 ---
+Hi there!
 
-Hi there
-
-# I'm Natalie Brianne
+![](/src/content/assets/asset-2.svg)
