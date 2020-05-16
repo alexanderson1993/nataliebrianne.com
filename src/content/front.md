@@ -17,4 +17,4 @@ social:
 ---
 Hi there!
 
-![](/src/content/assets/asset-2.svg)
+# I'm Natalie Brianne
