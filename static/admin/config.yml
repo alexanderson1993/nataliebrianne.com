@@ -10,7 +10,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "blog"
     label: "Blog"
     label_singular: "Blog Post"
-    folder: "src/content/blog"
+    folder: "src/content/posts"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true
     fields:
