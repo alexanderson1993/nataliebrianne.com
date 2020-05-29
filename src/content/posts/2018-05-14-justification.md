@@ -2,6 +2,7 @@
 title: Justification
 author: Natalie Anderson
 date: 2018-05-14T20:49:00.002Z
+thumbnail: /src/content/assets/journal-1509562373u73.jpg
 ---
 Whenever I start a new diary, or write an essay, or start any new adventure, I always feel the need to justify it. When writing the first page or so in a new diary, I start by telling the journal a bit about myself. How old I am, what's my current favorite color, what my favorite things are, who my best friend is. All of those things. (20, pink or turquoise depending, art and writing, and my cat. Just kidding! My best friend knows who they are.) Writing all of that down is just the standard procedure for starting a new diary.
 
