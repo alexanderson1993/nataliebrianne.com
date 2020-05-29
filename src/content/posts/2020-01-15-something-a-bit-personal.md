@@ -1,7 +1,8 @@
 ---
 title: Something a bit Personal
 author: Natalie Brianne
-date: 2020-01-15T10:38:00.000-07:00
+date: 2020-01-15T17:38:00.000Z
+thumbnail: /src/content/assets/jeans-3658613_960_720.jpg
 ---
 
 And now for something completely different. Last year, I wrote a personal essay for a class. It was the first time that I've really written about my experience of losing my dad. Up to very recently, I haven't liked to talk about it. Heck, I lost my dad before I started my senior year of high school, and I didn't really tell anyone that it had happened. I avoided talking about it or opening up to anyone. I guess it was a coping strategy.
