@@ -1,7 +1,8 @@
 ---
 title: The Voices in My Head
 author: Natalie Anderson
-date: 2019-03-25T16:33:00.000-06:00
+date: 2019-03-25T22:33:00.000Z
+thumbnail: /src/content/assets/brain-2062048_1920.jpg
 ---
 Who would have thought it would take this long to get back into this? I certainly didn't. A lot has happened over the last few months, including me sending my book off to the publishers! Haven't heard back from them yet, but I should any day now.
 
