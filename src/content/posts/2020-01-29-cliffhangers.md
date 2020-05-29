@@ -1,7 +1,8 @@
 ---
 title: Cliffhangers
 author: Natalie Brianne
-date: 2020-01-29T16:24:00.001-07:00
+date: 2020-01-29T23:24:00.001Z
+thumbnail: /src/content/assets/cliff-of-moher-2371819_1920.jpg
 ---
 
 Ever since I was little I loved the outdoors. My mother instilled this in me through hikes and nature walks. She would stop to identify plants along the way to the point that I know what burdock, mullion, and yarrow look like and what they are used for. Living in Utah for practically all of my life (barring the 3 months that I was in Europe), I have pretty easy access to the mountains and can receive some respite just about whenever I want. Waterfalls, scenic views, snow, cute animals, and peaceful silence are a mere fifteen to thirty minute drive away.
