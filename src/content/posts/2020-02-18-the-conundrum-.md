@@ -1,7 +1,8 @@
 ---
-title: The Conundrum 
+title: The Conundrum
 author: Natalie Brianne
-date: 2020-02-18T20:25:00.001-07:00
+date: 2020-02-19T03:25:00.001Z
+thumbnail: /src/content/assets/pink_double_cherry_blossoms_in_torp_8.jpg
 ---
 Change. Change is the bane of my existence.
 
@@ -11,11 +12,9 @@ Things are changing all around us all the time. Take nature for example. She goe
 
 Sometimes this cycle can be vicious, particularly around February for me. I get into these doldrums and when that happens I have a hard time getting out of my head. So many thoughts and feelings all at once, that I'm not sure what's real anymore.
 
-It is at these times when it is good to look at a calendar. Or in my case, to spread my life out in front of me and try to figure out what is happening inside of myself. When you look at a calendar, it is easy to see the patterns of growth, where we have come from, and where we have to go. Compare that with the weather, and maybe you'll see if there are any abnormal changes occurring.&nbsp; And when you put your to do list in front of you, and compare it to a reliable source you can recognize where there are problems and hopefully adjust them.
+It is at these times when it is good to look at a calendar. Or in my case, to spread my life out in front of me and try to figure out what is happening inside of myself. When you look at a calendar, it is easy to see the patterns of growth, where we have come from, and where we have to go. Compare that with the weather, and maybe you'll see if there are any abnormal changes occurring. And when you put your to do list in front of you, and compare it to a reliable source you can recognize where there are problems and hopefully adjust them.
 
 In all honesty, the changes that have been happening in my lie recently are all generally positive. But too much change too quickly can easily become an overdose. Recognizing when you've hit your limit is crucial to understanding yourself and to moving forward through the changes happening in life.
 
 I look forward to when the leaves come on the trees. But I can wait for the frost to be gone before I see those beautiful blossoms.
-
-<img alt="Image result for open source picture of blossoms" src="https://images.pexels.com/photos/701816/pexels-photo-701816.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" />
 
