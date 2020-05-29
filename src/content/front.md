@@ -17,6 +17,4 @@ social:
 ---
 Hi there!
 
-
-
-# I'm Natalie Brianne
+![](/src/content/assets/screen-shot-2020-05-29-at-4.22.43-pm.png)
