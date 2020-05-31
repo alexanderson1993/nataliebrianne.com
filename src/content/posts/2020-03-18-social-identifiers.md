@@ -2,6 +2,7 @@
 title: Social Identifiers
 author: Natalie Brianne
 date: 2020-03-18T23:42:00.001Z
+thumbnail: /src/content/assets/crowd.jpg
 ---
 Let's do an experiment.
 
