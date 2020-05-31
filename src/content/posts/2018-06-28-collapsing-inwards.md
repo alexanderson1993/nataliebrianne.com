@@ -2,8 +2,9 @@
 title: Collapsing Inwards
 author: Natalie Anderson
 date: 2018-06-28T19:52:00.002Z
-thumbnail: /src/content/assets/a_grotto_with_collapsing_rocks-_opening_to_a_sky_full_of_the_enthroned_gods_of_olympus-_including_jupiter-_apollo-_mars-_venus-_and_mercury-_set_design_from_-la_monarchia_latina_trionfante-_met_dp874706.jpg
+thumbnail: /src/content/assets/gods.jpg
 ---
+
 I find it humorous that in my previous posts I was so gung-ho about writing. Considering what has happened in the last few weeks that is. You know, I don't even know who my readers are. I've let a few people know about the blog but I don't even know if they read. I know there are at least a few people in different countries that read what I write. And I've only written three (four once this one goes out) posts.
 
 The title of this post refers to the name of a song that happened to come on when I was shuffling my music. It comes from <i>The Theory of Everything </i>which is an amazing film about the life of Steven Hawking. I can say this despite never seeing it because Steven Hawking himself was impressed with the film before his passing earlier this year. Now I don't know where this particular song fits in the movie, but the way I am feeling today and the way that this particular song sounds coincide. Today I felt as if my entire life was collapsing from the inside out. Deteriorating. Piece by piece. It made no sense. I've had so many good days and nothing, literally nothing had happened today to cause a breakdown inside of me. And yet, there it was.
@@ -11,4 +12,3 @@ The title of this post refers to the name of a song that happened to come on whe
 Perhaps this has been coming on for a few weeks. After all there is a reason I haven't written more blog posts. It isn't that I got too busy or couldn't think of anything to write. I just simply couldn't bring myself to write. Anything. Not even anything for a new book in a series or even a simple journal entry. I would sit down to write and I couldn't. I found an invisible barrier between my fingers and the keys.
 
 I thought I understood anxiety before now. But anxiety is a completely different beast. It is a ravenous parasite that makes itself known whenever it wants. It doesn't matter if you've had a good day or a bad day. It doesn't matter if you are feeling good about yourself or if your self-esteem is shattered. It doesn't matter. Sometimes it won't come up for a few days or weeks. Sometimes it haunts you day after day. Crippling almost. Anxiety is the monster under your bed and the creature lurking in the dark shadows of your mind. It is fear, irrationality, and every embarrassing moment you've ever had. It takes good emotions and skews them making you question if they are even valid. It makes you question your own sanity. And it blocks you from being able to do the things you love. And some people may say just push past it or just move through it. It isn't that simple. I've tried time and time again to sit down and write and it hasn't worked. For whatever reason, I've been able to today after much distress and heartache. Hopefully I'll be able to write more in the future.
-
