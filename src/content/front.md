@@ -14,6 +14,9 @@ social:
   - label: Goodreads
     icon: FaGoodreadsG
     link: https://goodreads.com/
+  - link: www.pinterest.com/nataliebriannebooks
+    label: Pinterest
+    icon: " fa-pinterest-p"
 ---
 Hi there!
 
