@@ -16,8 +16,9 @@ social:
     link: https://goodreads.com/
   - link: www.pinterest.com/nataliebriannebooks
     label: Pinterest
-    icon: " fa-pinterest-p"
+    icon: "FaPinterestP"
 ---
+
 Hi there!
 
 # I'm Natalie Brianne

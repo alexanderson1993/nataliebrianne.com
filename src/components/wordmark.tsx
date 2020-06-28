@@ -1,6 +1,17 @@
 import React from "react"
 import { css } from "@emotion/core"
+import { useMedia } from "../hooks/useMedia"
+
 const Wordmark = props => {
+  const showWordmark = useMedia(
+    // Media queries
+    ["(min-width: 680px)"],
+    // Column counts (relates to above media queries by array index)
+    [true],
+    // Default column count
+    false
+  )
+  if (!showWordmark) return null
   return (
     <svg
       {...props}

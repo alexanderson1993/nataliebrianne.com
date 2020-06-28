@@ -7,9 +7,22 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Logo from "../components/logo"
 import { Link } from "gatsby"
-import * as icons from "react-icons/all"
+import {
+  FaTwitter,
+  FaFacebookF,
+  FaInstagram,
+  FaGoodreadsG,
+  FaPinterestP,
+} from "react-icons/all"
 import IndexBackground from "../components/index-background"
 
+const icons = {
+  FaTwitter,
+  FaFacebookF,
+  FaInstagram,
+  FaGoodreadsG,
+  FaPinterestP,
+}
 const SocialLink = ({ icon, label, link }) => {
   const Icon = icons[icon]
   if (!Icon) return null

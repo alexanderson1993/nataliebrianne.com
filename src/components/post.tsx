@@ -9,8 +9,6 @@ import { Global, css } from "@emotion/core"
 import tw from "twin.macro"
 import PostImage from "./post-image"
 
-import * as ReactIcons from "react-icons/all"
-
 const Post = ({
   data: {
     markdownRemark: post,

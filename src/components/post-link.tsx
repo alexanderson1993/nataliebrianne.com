@@ -13,7 +13,9 @@ const PostLink = ({
   return (
     <Link
       className={`block relative no-underline p-4 flex flex-col justify-end transition-color duration-500 ${
-        span === 6 ? `col-span-6 h-64 ` : `col-span-4 h-56 `
+        span === 6
+          ? `col-span-1 lg:col-span-6 h-64 `
+          : `col-span-1 lg:col-span-4 h-56 `
       } ${!src ? `bg-backgroundOff` : ""}`}
       css={css`
         &:hover > div > div {

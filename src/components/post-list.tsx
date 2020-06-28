@@ -23,7 +23,7 @@ const PostList = ({ posts }) => (
       >
         Blog
       </h1>
-      <section className={`m-auto grid grid-cols-12 gap-8`}>
+      <section className={`m-auto grid grid-cols-1 lg:grid-cols-12 gap-8`}>
         {posts.map(({ node }, i) => (
           <PostLink
             key={node.fields.slug}
