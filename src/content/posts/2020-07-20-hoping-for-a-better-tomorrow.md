@@ -33,19 +33,38 @@ Each of us is a pioneer. Each day we get out of bed and go out into the world, w
 
 That’s what this holiday is about, truly. It’s for looking back on those who came before us and validating their struggles. Because they were just like us. They had hopes and dreams. They had love and light and laughter. They had tremendous sorrow and frustration. And they kept going. They kept walking. They kept trying. And that’s all that any of us can do. 
 
-Here’s to the pioneers
-Who blistered and baked
-In the sun while they ached
-Hoping for a better tomorrow
+> Here’s to the pioneers 
+>
+> Who blistered and baked
+>
+>
+> In the sun while they ached
+>
+>
+> Hoping for a better tomorrow
 
-Here’s to the pioneers
-Scorned and disdained,
-Their brilliance unrestrained 
-Hoping for a better tomorrow 
 
-Here’s to the pioneers
-Those people each day
-Paving out their own way
-Hoping for a better tomorrow
+
+
+
+> Here’s to the pioneers 
+>
+> Scorned and disdained,
+>
+>
+> Their brilliance unrestrained 
+>
+>
+> Hoping for a better tomorrow 
+>
+> Here’s to the pioneers 
+>
+> Those people each day
+>
+>
+> Paving out their own way
+>
+>
+> Hoping for a better tomorrow
 
 Here’s to us all, the Pioneers of Tomorrow
