@@ -5,6 +5,7 @@ backend:
 
 media_folder: "src/content/assets"
 public_folder: "/src/content/assets"
+publish_mode: editorial_workflow
 
 collections: # A list of collections the CMS should be able to edit
   - name: "blog"
