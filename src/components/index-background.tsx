@@ -28,8 +28,13 @@ const IndexBackground = () => {
   return (
     <div
       css={[
-        tw`fixed inset-0 z-0 bg-background transition-colors duration-500`,
+        tw`absolute h-full inset-0 z-0 bg-background transition-colors duration-500`,
         css`
+          mask-image: linear-gradient(
+            180deg,
+            rgba(0, 0, 0, 1) 70%,
+            rgba(0, 0, 0, 0) 100%
+          );
           div,
           picture {
             height: 100%;

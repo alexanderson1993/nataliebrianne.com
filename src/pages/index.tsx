@@ -15,6 +15,7 @@ import {
   FaPinterestP,
 } from "react-icons/all"
 import IndexBackground from "../components/index-background"
+import SignupForm from "../components/signupForm"
 
 const icons = {
   FaTwitter,
@@ -45,11 +46,17 @@ const IndexPage = ({ data }) => {
         title={site.siteMetadata.title}
         description={site.siteMetadata.description}
       />
-      <IndexBackground />
       <section
-        className={`flex-grow flex flex-col justify-center items-center text-center pb-40 z-10`}
+        css={css`
+          margin-top: -137px;
+          height: 95vh;
+        `}
+        className={`relative flex flex-col justify-center items-center text-center pb-40 h-screen`}
       >
+        <IndexBackground />
+
         <div
+          className="z-0"
           css={css`
             p {
               ${tw`text-3xl font-thin`}
@@ -60,7 +67,7 @@ const IndexPage = ({ data }) => {
           `}
           dangerouslySetInnerHTML={{ __html: front.html }}
         ></div>
-        <div className={`text-xl font-semibold mt-4 mb-8`}>
+        <div className={`text-xl font-semibold mt-4 mb-8 z-0`}>
           {front.frontmatter.descriptions}
         </div>
         <div className={`text-2xl flex justify-between`}>
@@ -68,6 +75,13 @@ const IndexPage = ({ data }) => {
             <SocialLink key={s.link} {...s} />
           ))}
         </div>
+      </section>
+      <section
+        css={css`
+          margin-top: -100px;
+        `}
+      >
+        <SignupForm />
       </section>
     </Layout>
   )

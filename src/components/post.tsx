@@ -8,6 +8,7 @@ import PostFooter from "./post-footer"
 import { Global, css } from "@emotion/core"
 import tw from "twin.macro"
 import PostImage from "./post-image"
+import SignupForm from "./signupForm"
 
 const Post = ({
   data: {
@@ -102,6 +103,7 @@ const Post = ({
               ]}
               dangerouslySetInnerHTML={{ __html: post.html }}
             ></article>
+            <SignupForm />
             <PostFooter siteUrl={siteUrl} post={post} {...{ previous, next }} />
           </section>
         </div>
