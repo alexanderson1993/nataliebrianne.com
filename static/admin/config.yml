@@ -5,6 +5,7 @@ backend:
 
 media_folder: "src/content/assets"
 public_folder: "/src/content/assets"
+publish_mode: editorial_workflow
 
 collections: # A list of collections the CMS should be able to edit
   - name: "blog"
@@ -147,6 +148,12 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Title, name: title, widget: string }
           - { label: Photo, name: image, widget: image }
           - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Signup Form"
+        name: "signupForm"
+        file: "src/content/signupForm.md"
+        fields:
+          - { label: Heading, name: heading, widget: string }
+          - { label: Body, name: body, widget: string }
       - label: "Contact"
         name: "contact"
         file: "src/content/contact.md"
