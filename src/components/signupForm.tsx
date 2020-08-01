@@ -126,8 +126,8 @@ const query = graphql`
       id
       frontmatter {
         heading
-        body
       }
+      html
     }
   }
 `
@@ -144,7 +144,10 @@ const SignupForm = () => {
           <div data-element="header">
             <Header>{formData.frontmatter.heading}</Header>
           </div>
-          <p data-element="subheader">{formData.frontmatter.body}</p>
+          <p
+            data-element="subheader"
+            dangerouslySetInnerHTML={{ __html: formData.html }}
+          ></p>
           <Fields>
             <Field>
               <Input
