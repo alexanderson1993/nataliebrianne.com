@@ -7,6 +7,8 @@ thumbnail: /src/content/assets/vintage-keyboard-typewriter-old-preview.jpg
 ---
 My first word processor came in the form of text-edit on the rainbow Macintosh laptop that my father gifted me when I was 8. Ol’ Lappy didn’t do much but it was able to help me draft my first story ideas and play some old games. Dr. Brain, Carmen Sandiego, the works. That text-edit application didn’t get me far though.
 
+![](/src/content/assets/931px-apple_computer_logo_rainbow.svg.png)
+
 My next word processor was Pages and, while it was a step up from text-edit, it still didn’t offer all that much. Of course, I didn’t know that at the time. I was a die-hard pages fan, and it took me years to accept that my school only accepted Microsoft Word documents. I wrote the very first draft of Constantine Capers: The Pennington Perplexity (beginning to end) in Pages. I even had the document password (and later fingerprint) protected. Pages served me well.
 
 Then came a beautiful day. The day I met Scrivener. Scrivener is a word processing software designed for authors, screenwriters, and editors. It is a beautiful gem that I did not know I was missing. 
