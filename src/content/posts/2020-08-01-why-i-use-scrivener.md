@@ -21,7 +21,7 @@ So what’s so great about Scrivener? Here are my top 10 features (in no particu
 
 Oh no! I’m halfway through this scene and I can’t remember if lipstick was actually worn during the 1880s. If I stop to research, I’ll probably get caught up in social media or spend half of my writing time on Youtube. Or I’ll go so far down the rabbit hole that I don’t remember what I was researching in the first place! 
 
-This is a major issue for me. I like things to be accurate, even if it’s fictional. I research things extensively. Now, Scrivener won’t help you find pieces of research per-say, but if will help you keep track of the research you’ve already done, and let you access it with the Wifi off. No chance of getting distracted now! Except for the google no-wifi dinosaur game…..but that’s on you. 
+This is a major issue for me. I like things to be accurate, even if it’s fictional. I research things extensively. Now, Scrivener won’t help you find pieces of research per-say, but if will help you keep track of the research you’ve already done, and let you access it with the Wifi off. No chance of getting distracted now! Except for the google no-wifi dinosaur game…..but that’s on you.
 
 ![](/src/content/assets/screen-shot-2020-08-03-at-4.58.56-pm.png)
 
