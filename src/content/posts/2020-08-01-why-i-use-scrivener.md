@@ -17,21 +17,23 @@ You might like it so much you don’t get through the 30 days and immediately bu
 
 So what’s so great about Scrivener? Here are my top 10 features (in no particular order) that make Scrivener stand out from other word processors. 
 
-## 1. Research 
+## 1. Research
 
 Oh no! I’m halfway through this scene and I can’t remember if lipstick was actually worn during the 1880s. If I stop to research, I’ll probably get caught up in social media or spend half of my writing time on Youtube. Or I’ll go so far down the rabbit hole that I don’t remember what I was researching in the first place! 
 
 This is a major issue for me. I like things to be accurate, even if it’s fictional. I research things extensively. Now, Scrivener won’t help you find pieces of research per-say, but if will help you keep track of the research you’ve already done, and let you access it with the Wifi off. No chance of getting distracted now! Except for the google no-wifi dinosaur game…..but that’s on you. 
 
+![]()
+
 You have your research folder, you add your websites to it by clicking “Add” and then “Import Web Page,” and BAM you’ve got access to the most important (or trivial) details for your novel. Now you can track the phases of the moon during the month your novel takes place to make sure that you describe the moonlight properly when your detectives go gallivanting at night, and you don’t have to use an internet browser to do so. Everything is in one place!
 
-## 2. Character names 
+## 2. Character names
 
 Similarly to researching, character names can often distract me. A new character just showed up in the park? Let’s name him! I go hunting on baby name sites and fantasynamegenerator.com. Now, there isn’t anything wrong with that. In fact, I still like to use Fantasy Names to find names for all sorts of things. But there is always the possibility of getting distracted!
 
 But, if you turn your Wifi off and the google dinosaur laughs at your futile attempts to research names, you can still find character nomenclature through Scrivener! Go to Edit, Writing tools, and there you’ll find the Name generator. You can specify the gender or culture that the name comes from, rarity, or even find alliterative names. Definitely helpful for when a pesky accidental character pops up.
 
-## 3. Folders/Templates 
+## 3. Folders/Templates
 
 Organization is amazing. And Scrivener lets you organize things like crazy. In Pages, I would have to scroll for forever to get to where I left off, and I’d have to search for chapter headings to move back and forth. Effective? Yes. Efficient? No. 
 
@@ -41,7 +43,7 @@ You can also make template pages for characters, settings, research, outlines, w
 
 You can also make templates for document types. When you first open up Scrivener, you can choose from the templates they have. Once you open one, you can add folders and internal templates to the document, and then save that document as a template for later. Then you don’t have to go through all the work of configuring your new novel to you favorite format every time you start a new project. Everything is ready to go from the moment you create the document. 
 
-## 4. Outlining 
+## 4. Outlining
 
 The Outline feature is fantastic. You can select a group of documents, hit outline, and see all their data at once. As they say on their website, “You can see the forest OR the trees.” There’s the title of the scene or chapter and the synopsis of it. You can go through and see exactly what’s going to happen next in your outline (or what just happened), then tab back over to your document to keep writing. You can also make custom metadata tags for each chapter or scene. Want to keep track of the locations each chapter/scene takes place in? You can add location to the metadata and see all that at once in the outline. 
 
@@ -49,23 +51,23 @@ The Outline feature is fantastic. You can select a group of documents, hit outli
 
 This. This is beautiful. It keeps track of so many things. How many words you write each day or month, when you started writing in the document, what kinds of words you use more frequently, how long it would take to read, etc..  You’ll find these features under the Project tab. 
 
-## 6. Labels 
+## 6. Labels
 
 You can create any number of labels in Scrivener. You can label a document as Complete, First Draft, Second draft, etc. or simply make your own label for it. You can color-code POV characters as you write so you can see which chapters switch. You can change the symbols on any document or folder to help you visualize more. The possibilities are endless! 
 
-## 7. Screenplay format 
+## 7. Screenplay format
 
 This might not be useful to everyone. In fact, I’m semi-surprised it was useful to me. This is for when you are writing screenplays (or just plays for that matter). Scrivener has a mode for that. Within that mode, you can use the tab key to change between styles such as action, dialogue, or scene description. It makes it SO easy to write a screenplay and format it at the same time. And then, when you are ready to send it off, you can compile it into the standard screenplay format and it’s ready to go!
 
-## 8. Composition Mode 
+## 8. Composition Mode
 
 Back to eliminating distractions. Ever get distracted by whatever is happening behind the word processor? What about getting distracted by the formatting options? Or your last chapter? Or the last sentence? Never fear! Composition mode is here! Composition mode blocks out everything behind it so you only have your text to worry about. If you want to focus in on the paragraph or sentence you are specifically working on, you can set a “focus” on that, so all the other words blur into the background. And that background is fully customizable. You want to put a nebula on the sides? Sure thing. And a different nebula underneath your words? Definitely. You can basically doctor your word processor to look however you want through the preferences. 
 
-## 9. Word Count and Targets 
+## 9. Word Count and Targets
 
 Most word processors have word counts for the total number of words in the document. Scrivener takes it one step further. You can see the total number of words in the document you are working on, in the entire project, and that you have written in that day. You can also customize word targets for a day or for a document or project. It can help you organize yourself better and keep track of your daily word counts so you’re on track for your personal or professional deadlines.
 
-## 10. Snapshots 
+## 10. Snapshots
 
 Ever make a change and a week later, you wish you could remember what you said before so you could change it back? I do. All the time. That’s why snapshots are a manuscript saver. Sure, you might be able to remember the general gist, but you want exactly what you wrote, right?
 
