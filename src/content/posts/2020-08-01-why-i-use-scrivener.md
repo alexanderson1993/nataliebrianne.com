@@ -23,9 +23,11 @@ Oh no! I’m halfway through this scene and I can’t remember if lipstick was a
 
 This is a major issue for me. I like things to be accurate, even if it’s fictional. I research things extensively. Now, Scrivener won’t help you find pieces of research per-say, but if will help you keep track of the research you’ve already done, and let you access it with the Wifi off. No chance of getting distracted now! Except for the google no-wifi dinosaur game…..but that’s on you. 
 
-![]()
+![](/src/content/assets/screen-shot-2020-08-03-at-4.58.56-pm.png)
 
 You have your research folder, you add your websites to it by clicking “Add” and then “Import Web Page,” and BAM you’ve got access to the most important (or trivial) details for your novel. Now you can track the phases of the moon during the month your novel takes place to make sure that you describe the moonlight properly when your detectives go gallivanting at night, and you don’t have to use an internet browser to do so. Everything is in one place!
+
+![](/src/content/assets/screen-shot-2020-08-03-at-4.53.11-pm.png)
 
 ## 2. Character names
 
