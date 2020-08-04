@@ -4,6 +4,10 @@ author: Natalie Brianne
 authorURL: https://twitter.com/NatalieBriBooks
 date: 2020-08-01T18:58:23.317Z
 thumbnail: /src/content/assets/vintage-keyboard-typewriter-old-preview.jpg
+keywords:
+  - Scrivener
+  - writing
+  - Top 10
 ---
 My first word processor came in the form of text-edit on the rainbow Macintosh laptop that my father gifted me when I was 8. Ol’ Lappy didn’t do much but it was able to help me draft my first story ideas and play some old games. Dr. Brain, Carmen Sandiego, the works. That text-edit application didn’t get me far though.
 
@@ -97,4 +101,4 @@ And if you are connected to the internet, Scrivener automatically backs up to Dr
 
 ![](/src/content/assets/screen-shot-2020-08-03-at-4.58.18-pm.png)
 
-The beauty of all this, is that is just the tip of the iceberg. Scrivener has hundreds of features that I’m still learning about. If you want it to work as a simple word processor, it has you covered. But as you get used to it and learn more about how it works, you can make it work for you in so many ways.
+The beauty of all this, is that is just the tip of the iceberg. Scrivener has hundreds of features that I’m still learning about. If you want it to work as a simple word processor, it has you covered. But as you get used to it and learn more about how it works, you can make it work for you in so many ways. If you're interested in getting Scrivener, check it out at <https://www.literatureandlatte.com/>
