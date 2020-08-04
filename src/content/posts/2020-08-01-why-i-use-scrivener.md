@@ -51,7 +51,7 @@ You can also make template pages for characters, settings, research, outlines, w
 
 ![](/src/content/assets/screen-shot-2020-08-03-at-4.54.13-pm.png)
 
-You can also make templates for document types. When you first open up Scrivener, you can choose from the templates they have. Once you open one, you can add folders and internal templates to the document, and then save that document as a template for later. Then you don’t have to go through all the work of configuring your new novel to you favorite format every time you start a new project. Everything is ready to go from the moment you create the document. 
+You can also make templates for document types. When you first open up Scrivener, you can choose from the templates they have. Once you open one, you can add folders and internal templates to the document, and then save that document as a template for later. Then you don’t have to go through all the work of configuring your new novel to your favorite format every time you start a new project. Everything is ready to go from the moment you create the document. 
 
 ## 4. Outlining
 
