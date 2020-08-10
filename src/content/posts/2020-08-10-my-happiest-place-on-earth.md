@@ -45,11 +45,15 @@ I remember my dad getting really tired and going to lay down in the nurse’s st
 
 ![](/src/content/assets/maynard.jpg)
 
+###### A picture with Maynard, one of the more well-known cast members at Disney.
+
 But I also remember the way his eyes lit up when we watched Fantasmic! and the ginormous 70-foot dragon appeared. I remember walking up Main Street USA with him and looking for hidden Mickeys. I remember riding the monorail and hearing my parents and brother talking about naming something Tigger. I blew it off, not realizing what they were discussing. After we got home, a kitten showed up after school one day. We named him Bunter.
 
 I was 16 the next time we went to Disneyland. Me, my parents, and two of my brothers. We were able to go for my birthday and my parents’ 30th wedding anniversary. 
 
 ![](/src/content/assets/img_0451.jpg)
+
+###### Beignets to celebrate 30 years!
 
 We got free beignets, rode every ride, and sang just about everywhere we went. I managed to convince my English teacher to let me write a research paper on Disneyland, so I was there for “field research.” That meant that I snuck vials of water from the Jungle Cruise, Pirates of the Caribbean, and It’s a Small World back home with me. I made two and gave one to my English teacher with my report. He drank it. 
 
