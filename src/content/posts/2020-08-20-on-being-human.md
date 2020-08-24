@@ -3,12 +3,15 @@ title: On Being Human
 author: Natalie Brianne
 authorURL: https://twitter.com/NatalieBriBooks
 date: 2020-08-20T01:39:23.049Z
+thumbnail: /src/content/assets/network-4153291_960_720.jpg
 ---
 When you think about the history of the world, of all the inventions and innovations that have happened in the past 200,000 years or so, our current way of life is a mere fraction of the human condition. 
 
 Movies have been around for a little over a hundred years. Talking pictures, less than a hundred years. Computers, phones, the internet, television, cars, planes. We are on a supercharged track, everything moving faster simply because human innovation seems to be exponential. 
 
 We’ve had the printing press for 580 years. Before that, all writing had to happen by hand. It would take years to create new books but Gutenberg and his press made it possible to make books faster, cheaper, and more effectively. And now? You’re reading text on a screen. Text that I typed faster than any text setter could set text in that printing press. 
+
+![](/src/content/assets/19385280159_0c1a055d23_c.jpg)
 
 I want you to take a second to think about how much has happened in such a short period of time. How incredible it is that we’ve been to the moon? That we’ve placed robots on Mars and have probes leaving our Solar System?
 
