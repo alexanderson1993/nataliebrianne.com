@@ -2,7 +2,7 @@
 title: Taming your Motivation
 author: Natalie Brianne
 authorURL: https://twitter.com/NatalieBriBooks
-date: 2020-08-20T01:19:59.287Z
+date: 2020-09-07T18:14:09.688Z
 thumbnail: /src/content/assets/trine_2_-_belly_of_the_beast.jpg
 ---
 Motivation is a beast. And I’ve found that in such times as these, that this beast can become even more ravenous, rabid, and wild. It’s more likely to retreat into the woods leaving the docile Procrastination behind to fill up your time. But even the most feral Motivation can be tamed with patience, diligence, and determination. 
