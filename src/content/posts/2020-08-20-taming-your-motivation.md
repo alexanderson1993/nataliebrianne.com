@@ -3,6 +3,7 @@ title: Taming your Motivation
 author: Natalie Brianne
 authorURL: https://twitter.com/NatalieBriBooks
 date: 2020-08-20T01:19:59.287Z
+thumbnail: /src/content/assets/trine_2_-_belly_of_the_beast.jpg
 ---
 Motivation is a beast. And I’ve found that in such times as these, that this beast can become even more ravenous, rabid, and wild. It’s more likely to retreat into the woods leaving the docile Procrastination behind to fill up your time. But even the most feral Motivation can be tamed with patience, diligence, and determination. 
 
@@ -16,29 +17,33 @@ I got distracted by a new YouTube channel and got sucked in. I worked on the com
 
 The point is, my motivation changes with my mood. But there are some things that I do that put me into the mood to be motivated. So here are my top 6 things (in no particular order) that I do to keep myself motivated. I specifically use these tricks for writing, but they can be applied to just about anything. 
 
-### Location 
+### Location
 
 When I write, I need to physically be in a place to write. Everything I need to write has to be within easy reaching distance. Recently, I’ve taken up residence in my living room. One of our couches has a bend in it, and I like to sit in the crook of it. I have a table in front of me that can hold snacks, notebooks, pens, drinks, etc. and there is plenty of room to stretch out. I’ve also been successful at writing outside when the weather is exactly right. 
 
+![](/src/content/assets/c342048e-310e-4293-a4b1-4937befa8a8a.jpeg)
+
 ### Music
 
- I’ve been obsessed with making playlists since my time at the Christa McAuliffe Space Center. I have playlists for different themes, tones, and genres. I have playlists for specific characters. Music is the fastest way to get me in the mood to write. And it is good at tricking your brain into shifting into productivity. If you consistently listen to the same song whenever you start something productive, when you listen to it, you can’t help but be motivated. I have a generic writing playlist on Youtube with piano and strings music, and I have specialized playlists for each of my projects. In the specialized playlists I have each start with a song that has words that I can dance to, just to get my energy up.
+ I’ve been obsessed with making playlists since my time at the Christa McAuliffe Space Center. I have playlists for different themes, tones, and genres. I have playlists for specific characters. Music is the fastest way to get me in the mood to write. And it is good at tricking your brain into shifting into productivity. If you consistently listen to the same song whenever you start something productive, when you listen to it, you can’t help but be motivated. I have a generic writing playlist on Youtube with piano and strings music, and I have specialized playlists for each of my projects. In the specialized playlists, I have each start with a song that has words that I can dance to, just to get my energy up.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLrjytMerSuwfrUvZBMnJfjk3UeiPCxq97" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [(Full playlist here)](https://www.youtube.com/playlist?list=PLrjytMerSuwfrUvZBMnJfjk3UeiPCxq97)
 
-### Smell/Taste 
+### Smell/Taste
 
 Similar to the music, you can trick your brain into being productive by eating/drinking the same thing before you start your writing/work session. This also works for smells. Once you associate the smell or taste with productivity, when you use it you’ll find yourself more motivated to work! 
 
-### Time-Management 
+### Time-Management
 
-There are all sorts of different methods and tricks of work/break time flows. I’ve had to play around with several before finding something that works. And, I don’t always adhere to it so I’m not always productive. I’ve found that 45 minutes on the project, with a 15 minute break to make sure I have water, get something to eat, and recenter the brain works rather well. I also use a site-blocking Chrome extension with time sensitivity to make sure that I don’t spend too much time on non-productive sites like Social Media and the like. 
+There are all sorts of different methods and tricks of work/break time flows. I’ve had to play around with several before finding something that works. And, I don’t always adhere to it so I’m not always productive. I’ve found that 45 minutes on the project, with a 15-minute break to make sure I have water, get something to eat, and recenter the brain works rather well. I also use a site-blocking Chrome extension with time sensitivity to make sure that I don’t spend too much time on non-productive sites like Social Media and the like. 
 
-### Productive Breaks 
+### Productive Breaks
 
-In the same vein as time-management, you want to make sure that the breaks that you take are productive. That isn’t to say that you keep working, because that isn’t a break. But, something that keeps your brain active while not exhausting it. I rather like to have a word search or deck of cards handy. Solitaire is really good at helping me to clear my thoughts and refocus.
+In the same vein as time-management, you want to make sure that the breaks that you take are productive. That isn’t to say that you keep working, because that isn’t a break. But, something that keeps your brain active while not exhausting it. I like to have a word search or deck of cards handy. Solitaire is really good at helping me to clear my thoughts and refocus.
+
+![](/src/content/assets/pile_of_playing_cards.jpg)
 
 ### Validation
 
