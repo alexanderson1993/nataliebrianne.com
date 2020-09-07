@@ -2,7 +2,7 @@
 title: Writing Update!
 author: Natalie Brianne
 authorURL: https://twitter.com/NatalieBriBooks
-date: 2020-08-20T02:19:28.981Z
+date: 2020-08-31T17:00:00.000Z
 thumbnail: /src/content/assets/writing-1209121_1280.jpg
 ---
 Here we are at the end of the summer! What a journey. I've had the amazing opportunity to take a step back and focus entirely on my career as an author and all of the wonderful things that come with it. I figured, that since this was the end of the summer, it would be good to catalog all of the things that I accomplished and what I've learned. This is kind of a selfish blog post so that I can look back at the end of the year and realize how much I've done. School starts up today, so we'll see how productive I'll manage to be during the Fall!
