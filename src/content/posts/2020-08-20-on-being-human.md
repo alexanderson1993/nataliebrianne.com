@@ -2,7 +2,7 @@
 title: On Being Human
 author: Natalie Brianne
 authorURL: https://twitter.com/NatalieBriBooks
-date: 2020-08-20T01:39:23.049Z
+date: 2020-08-25T01:39:23.049Z
 thumbnail: /src/content/assets/network-4153291_960_720.jpg
 ---
 When you think about the history of the world, of all the inventions and innovations that have happened in the past 200,000 years or so, our current way of life is a mere fraction of the human condition. 
