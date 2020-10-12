@@ -1,5 +1,5 @@
 ---
-title: Between Shades of Gray
+title: "Book Review: Between Shades of Gray"
 author: Natalie Brianne
 authorURL: https://twitter.com/NatalieBriBooks
 date: 2020-10-12T15:08:19.954Z
