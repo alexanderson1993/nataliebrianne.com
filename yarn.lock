@@ -6731,6 +6731,13 @@ gatsby-page-utils@^0.2.0:
     lodash "^4.17.15"
     micromatch "^3.1.10"
 
+gatsby-plugin-clicky@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-clicky/-/gatsby-plugin-clicky-1.0.0.tgz#7e4ecb87f8d795e31e69fd13f7ac268ab148ecca"
+  integrity sha512-6IQxIECi2iHBD+Yl6/DJC8W20XskwwzQ8Na7KEVsoAAsZ+ywBb1ZzCoLqbCwMYfna5aQeb8mSBo+FHemAzv4pQ==
+  dependencies:
+    "@babel/runtime" "^7.7.2"
+
 gatsby-plugin-emotion@^4.3.0:
   version "4.3.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-emotion/-/gatsby-plugin-emotion-4.3.0.tgz#3918806731b5df7a094e93e66ddc96acd1da0ae3"

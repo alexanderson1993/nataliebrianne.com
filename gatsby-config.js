@@ -145,6 +145,12 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-clicky`,
+      options: {
+        siteId: "101285284",
+      },
+    },
+    {
       resolve: `gatsby-plugin-purgecss`,
       options: {
         printRejected: true, // Print removed selectors and processed file names
