@@ -48,6 +48,7 @@ const Header = ({ siteTitle }) => {
       </Link>
       <nav className="flex items-center mr-8">
         <NavLink to="/">Home</NavLink>
+        <NavLink to="/about">About</NavLink>
         <NavLink to="/blog">Blog</NavLink>
         <DarkToggle />
       </nav>
