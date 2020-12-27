@@ -1,5 +1,5 @@
 ---
-title: Natalie Brianne
+title: Natalie Brianne Testing
 image: /src/content/assets/headshot.jpg
 ---
 Natalie Brianne's active imagination led her to spend much of her childhood making dolls out of acorn caps, escaping to fields of clover, and exploring the neighborhood as if it were a jungle full of flora and fauna rather than concrete and asphalt.
