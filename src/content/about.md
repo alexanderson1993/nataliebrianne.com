@@ -1,5 +1,5 @@
 ---
-title: Natalie Brianne Testing
+title: Natalie Brianne
 image: /src/content/assets/img_4459.jpg
 ---
 
