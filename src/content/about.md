@@ -1,11 +1,19 @@
 ---
 title: Natalie Brianne Testing
-image: /src/content/assets/headshot.jpg
+image: /src/content/assets/img_4459.jpg
 ---
-Natalie Brianne's active imagination led her to spend much of her childhood making dolls out of acorn caps, escaping to fields of clover, and exploring the neighborhood as if it were a jungle full of flora and fauna rather than concrete and asphalt.
 
-Writing was an unconscious sprite that followed her around, leading her to write poetry and short stories about the world around her. Through her schooling, she gained interest in a variety of things from history, art, and music to science and technology. This led her to pursue a degree in Interdisciplinary Humanities at Brigham Young University where she could learn about her passions all at once.
 
-She loves to travel, learn new dialects and accents, draw, try new things and spend time with her ever-expanding family.
+Natalie Brianne’s love of writing might be traced back to an old Rainbow Macintosh Laptop she received for her 8th birthday. Perhaps it came from years of storytelling and the discipline of wonder. Or maybe, she was born to write and didn’t realize it until a book sprung out of her fingertips somewhere between a house in Pleasant Grove, Utah and a bus on its way to Edinburgh, Scotland.
 
-You can find her musings on Facebook, Instagram, and Twitter
+ 
+
+She received her degree in Interdisciplinary Humanities from BYU. While she could have studied English or Creative Writing, she opted to learn more about culture, distant lands, and people in hopes of writing better stories. Much of her first book, *Constantine Capers: The Pennington Perplexity* was written when she lived at 27 Palace Court, London, walking the streets as if she were her characters.
+
+ 
+
+While her interests in writing spread across genres, you can always expect her work to be imaginative, clean, and clever.
+
+ 
+
+When Natalie isn’t writing, she’s illustrating, voice acting, playing the guitar very badly, traveling and forgetting that she has vegetables in her fridge. You might find her in a cute little ivy-covered house in Provo, Utah. You’ll know the place by the immense flock of finches that nest there. If she isn’t there, try looking for her on Twitter, Facebook, or Instagram.
