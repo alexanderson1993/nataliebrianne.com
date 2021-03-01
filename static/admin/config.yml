@@ -54,6 +54,7 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - { label: "Title", name: "title", widget: "string", tagname: "h1" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Published", name: "published", widget: "boolean" }
       - {
           label: "Cover Image",
           name: "thumbnail",
@@ -84,16 +85,24 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Description", name: "description", widget: "markdown" }
-          - { label: "Image", name: "image", widget: "image", required: true}
+          - { label: "Image", name: "image", widget: "image", required: true }
       - label: "Character Bios"
         name: "bios"
         widget: "list"
         allow_add: true
         label_singular: "Bio"
-        fields: 
-          - { label: "Name", name: "name", widget: "string"}
-          - { label: "Description", name: "description", widget: "markdown"}
-          - { label: "Image", name: "image", widget: "image", required: true}
+        fields:
+          - { label: "Name", name: "name", widget: "string" }
+          - { label: "Description", name: "description", widget: "markdown" }
+          - { label: "Image", name: "image", widget: "image", required: true }
+      - label: "Links"
+        name: "links"
+        widget: "list"
+        allow_add: true
+        label_singular: "Link"
+        fields:
+          - { label: "Text", name: "name", widget: "string" }
+          - { label: "Link", name: "description", widget: "string" }
   - name: "short_stories"
     label: "Short Stories"
     label_singular: "Story"

@@ -25,6 +25,17 @@ export const query = graphql`
             title
             date(formatString: "MMMM DD, YYYY")
             progress
+            published
+            art {
+              description
+              image
+              title
+            }
+            bios {
+              description
+              image
+              name
+            }
             thumbnail {
               childImageSharp {
                 fluid(maxHeight: 500, webpQuality: 100) {

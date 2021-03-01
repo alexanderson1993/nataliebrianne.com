@@ -9,7 +9,7 @@ import { Global, css } from "@emotion/core"
 import tw from "twin.macro"
 import PostImage from "./post-image"
 import SignupForm from "./signupForm"
-import Img from 'gatsby-image'
+import Img from "gatsby-image"
 const Book = ({
   data: {
     markdownRemark: post,
@@ -87,19 +87,21 @@ const Book = ({
               margin: 0 2rem;
             `}
           >
-            <h1 className={`text-6xl font-bold`}
->{post.frontmatter.title}</h1>
-<div className="flex">
-
-{post.frontmatter.thumbnail?.childImageSharp?.fluid && <div
-     className="w-1/3"
-     >
-      <Img fluid={post.frontmatter.thumbnail?.childImageSharp?.fluid}></Img>
-    </div>}
-            <article className="ml-4"
+            <Img
+              className="w-96 m-auto shadow-2xl"
+              fluid={post.frontmatter.thumbnail?.childImageSharp?.fluid}
+            ></Img>
+            <h1 className={`text-6xl font-bold text-center`}>
+              {post.frontmatter.title}
+            </h1>
+            <hr className="w-1/3 m-auto my-8" />
+            <article
+              css={css`
+                max-width: 80ch;
+              `}
+              className="prose m-auto pt-4"
               dangerouslySetInnerHTML={{ __html: post.html }}
-              ></article>
-              </div>
+            ></article>
             <SignupForm />
           </section>
         </div>
