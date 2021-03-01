@@ -1,6 +1,6 @@
 ---
 title: "Constantine Capers: The Pennington Perplexity"
-thumbnail: ""
+thumbnail: /src/content/assets/c-cover.jpg
 date: 2020-12-26T04:07:05.759Z
 progress: 100
 art:
