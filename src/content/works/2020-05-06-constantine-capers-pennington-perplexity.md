@@ -1,8 +1,8 @@
 ---
 title: "Constantine Capers: The Pennington Perplexity"
+published: true
 thumbnail: /src/content/assets/c-cover.jpg
 date: 2020-12-26T04:07:05.759Z
-published: true
 progress: 100
 art:
   - title: Hat, Fan, and Watch
@@ -13,8 +13,7 @@ art:
       the underlying conflict. Byron’s tophat, Mira’s fan, and a watch to show
       Byron’s memory loss. I still love how it all looks together.
   - title: Cover Mock-Up
-    description:
-      This is a potential cover idea that I created for the book. I was
+    description: This is a potential cover idea that I created for the book. I was
       inspired by the Art Nouveau style in one of my classes and decided I
       wanted to try it out. It ended up more like a stained glass window though.
       The front shows more of the mystery and the historical setting, while the
@@ -24,8 +23,7 @@ art:
     image: /src/content/assets/untitled_artwork.jpg
   - title: Alternative Mira
     image: /src/content/assets/img_6382.png
-    description:
-      Here's Mira looking out the window. The wallpaper in the background
+    description: Here's Mira looking out the window. The wallpaper in the background
       actually comes from a picture I took of Jane Austen's wallpaper in
       Chawton.
 bios:
@@ -37,14 +35,18 @@ bios:
       short term memory loss? Well, even he doesn’t know.
     image: /src/content/assets/untitled_artwork.png
   - name: Mira Blayse
-    description:
-      This is Mira Blayse, an artist and accidental non-conformist. It’s
+    description: This is Mira Blayse, an artist and accidental non-conformist. It’s
       not her fault that her hair doesn’t stay styled. While she’s shy and prone
       to blush, she isn’t afraid to go out of her comfort zone to find the
       truth. She’s 22 years old, has a twin, is ambidextrous, and has an
       unhealthy love of French toast. She’s also never flown on a dirigible, but
       maybe that will change.
     image: /src/content/assets/untitled_artwork-1.png
+links:
+  - name: Ebook Edition
+    description: https://www.amazon.com/Constantine-Capers-Pennington-Natalie-Brianne-ebook/dp/B08WS31F6L/ref=sr_1_1?dchild=1&keywords=Constantine+capers&qid=1614893154&sr=8-1
+  - name: Paperback
+    description: https://www.amazon.com/dp/1953491138/ref=sr_1_2?dchild=1&keywords=Constantine+capers&qid=1614893154&sr=8-2
 ---
 
 You wouldn’t expect a detective with Sherlockian deductive skills to have amnesia, but Byron Constantine is hardly the detective you’d expect.
