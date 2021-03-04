@@ -32,11 +32,11 @@ bios:
       memory loss. Every day he wakes up and can’t remember the day before. He’s
       managed to solve over 40 cases despite that. He’s 27 years old, has an
       impeccable sense of style, and plays the piano. How did he end up with
-      short term memory loss? Well, even he doesn’t know.
+      short term memory loss? Well, even he doesn’t know!
     image: /src/content/assets/untitled_artwork.png
   - name: Mira Blayse
     description: This is Mira Blayse, an artist and accidental non-conformist. It’s
-      not her fault that her hair doesn’t stay styled. While she’s shy and prone
+      not her fault that her hair doesn’t stay styled! While she’s shy and prone
       to blush, she isn’t afraid to go out of her comfort zone to find the
       truth. She’s 22 years old, has a twin, is ambidextrous, and has an
       unhealthy love of French toast. She’s also never flown on a dirigible, but
