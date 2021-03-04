@@ -45,7 +45,7 @@ bios:
 links:
   - name: Ebook Edition
     description: https://www.amazon.com/Constantine-Capers-Pennington-Natalie-Brianne-ebook/dp/B08WS31F6L/ref=sr_1_1?dchild=1&keywords=Constantine+capers&qid=1614893154&sr=8-1
-  - name: Paperback
+  - name: Paperback Edition
     description: https://www.amazon.com/dp/1953491138/ref=sr_1_2?dchild=1&keywords=Constantine+capers&qid=1614893154&sr=8-2
 ---
 
