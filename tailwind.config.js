@@ -16,8 +16,8 @@ module.exports = {
         backgroundOff: "var(--color-background-off)",
       },
       spacing: {
-        "96": "24rem",
-        "128": "32rem",
+        96: "24rem",
+        128: "32rem",
       },
     },
   },
@@ -31,6 +31,7 @@ module.exports = {
       "dark-hover",
       "dark-active",
     ],
+    backgroundImage: ["hover", "focus"],
     borderColor: [
       "responsive",
       "hover",

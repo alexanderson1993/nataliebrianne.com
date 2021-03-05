@@ -21,6 +21,18 @@ export const query = graphql`
         title
         progress
         keywords
+        links {
+          name
+          description
+        }
+        bios {
+          description
+          name
+        }
+        art {
+          description
+          title
+        }
         thumbnail {
           childImageSharp {
             fluid(maxHeight: 500, webpQuality: 100) {

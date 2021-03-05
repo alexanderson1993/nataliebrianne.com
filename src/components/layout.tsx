@@ -72,7 +72,6 @@ const Layout = ({ children }) => {
         ? window.COLORS.light.primary
         : window.COLORS.dark.primary
     )
-    console.log(colorMode)
     root.style.setProperty(
       "--bg-opacity-dark",
       newValue === "light" ? "0" : "0.5"

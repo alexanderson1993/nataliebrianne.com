@@ -96,7 +96,7 @@ const Post = ({
             ></PostImage>
             <article
               css={[
-                tw`mt-12`,
+                tw`mt-12 mx-auto`,
                 css`
                   max-width: 700px;
                 `,

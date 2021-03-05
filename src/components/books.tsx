@@ -1,16 +1,16 @@
 import { css } from "@emotion/core"
-import React from "react"
+import React, { useEffect } from "react"
 import { Link } from "gatsby"
 
 import Layout from "./layout"
 import SEO from "./seo"
 import Img from "gatsby-image"
+import { Socket } from "dgram"
 
 const Posts = ({ location, data }) => {
   const { allMarkdownRemark, site } = data
   const books = allMarkdownRemark.edges
   const siteTitle = site.siteMetadata.title
-  console.log(books)
   return (
     <Layout>
       <SEO title="Books" />
@@ -76,7 +76,7 @@ const Posts = ({ location, data }) => {
               ))}
           </section>
         </div>
-      </div>{" "}
+      </div>
     </Layout>
   )
 }

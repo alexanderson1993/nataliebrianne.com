@@ -18,7 +18,6 @@ const Book = ({
     },
   },
 }) => {
-  console.log(post)
   return (
     <>
       <SEO
@@ -87,10 +86,31 @@ const Book = ({
               margin: 0 2rem;
             `}
           >
-            <Img
-              className="w-96 m-auto shadow-2xl"
-              fluid={post.frontmatter.thumbnail?.childImageSharp?.fluid}
-            ></Img>
+            <div className="flex">
+              <div className=" flex-1 flex-wrap">
+                <Img
+                  css={css`
+                    width: 34vh;
+                    height: 50vh;
+                  `}
+                  className=" m-auto shadow-2xl"
+                  objectFit="cover"
+                  {...post.frontmatter.thumbnail?.childImageSharp}
+                />
+              </div>
+              <div className="flex flex-col flex-1 justify-center items-center space-y-4">
+                <h2 className="text-5xl font-bold">Buy Now!</h2>
+                {post.frontmatter.links?.map(l => (
+                  <a
+                    href={l.description}
+                    target="_blank"
+                    className="text-2xl font-bold w-1/2 bg-pink-700 hover:bg-pink-800 active:bg-pink-900 text-center rounded shadow-md"
+                  >
+                    {l.name}
+                  </a>
+                ))}
+              </div>
+            </div>
             <h1 className={`text-6xl font-bold text-center`}>
               {post.frontmatter.title}
             </h1>
@@ -102,6 +122,8 @@ const Book = ({
               className="prose m-auto pt-4"
               dangerouslySetInnerHTML={{ __html: post.html }}
             ></article>
+            <div></div>
+
             <SignupForm />
           </section>
         </div>

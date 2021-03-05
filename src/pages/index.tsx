@@ -49,28 +49,30 @@ const IndexPage = ({ data }) => {
       <section
         css={css`
           margin-top: -137px;
-          height: 95vh;
         `}
         className="relative"
       >
         <IndexBackground />
-        <div className="pb-40 h-screen flex items-center justify-between px-96">
-          <div className="z-0">
-            <Img
-              css={css`
-                width: 400px;
-                z-index: 0;
-                box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.75);
-              `}
-              objectFit="contain"
-              {...data.cover.childImageSharp}
-            />
-            <h3 className="text-white z-0  relative text-2xl font-semibold text-center">
-              Coming: March 2021
-            </h3>
-          </div>
+        <div className="h-screen pt-16 flex items-center justify-center space-x-0 sm:space-x-8 md:space-x-16 lg:space-x-32 xl:space-x-48 flex-wrap md:flex-no-wrap">
+          <Link to="/works/2020-05-06-constantine-capers-pennington-perplexity/">
+            <div className="z-0">
+              <Img
+                css={css`
+                  width: 34vh;
+                  height: 50vh;
+                  z-index: 0;
+                  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.75);
+                `}
+                objectFit="cover"
+                {...data.cover.childImageSharp}
+              />
+              <h3 className="text-white z-0  relative text-2xl font-semibold text-center">
+                Coming: March 2021
+              </h3>
+            </div>
+          </Link>
           <div
-            className={`flex flex-col justify-center items-center text-center h-full`}
+            className={`flex flex-col justify-center items-center text-center`}
           >
             <div
               className="z-0"
@@ -95,11 +97,7 @@ const IndexPage = ({ data }) => {
           </div>
         </div>
       </section>
-      <section
-        css={css`
-          margin-top: -100px;
-        `}
-      >
+      <section className="md:-mt-48 mt-0">
         <SignupForm />
       </section>
     </Layout>
