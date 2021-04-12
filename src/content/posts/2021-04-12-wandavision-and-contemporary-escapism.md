@@ -3,7 +3,7 @@ title: WandaVision and Contemporary Escapism
 author: Natalie Brianne
 authorURL: https://twitter.com/NatalieBriBooks
 date: 2021-04-12T16:46:15.170Z
-thumbnail: /src/content/assets/unknown.jpeg
+thumbnail: /src/content/assets/wandavision-episode-3-now-in-color.jpg
 ---
 Spoilers for WandaVision ahead!
 
