@@ -2,7 +2,7 @@
 title: Imposter Syndrome
 author: Natalie Brianne
 authorURL: https://twitter.com/NatalieBriBooks
-date: 2021-03-08T18:30:00.000Z
+date: 2021-06-14T17:30:00.000Z
 thumbnail: /src/content/assets/fountain-pen.jpg
 ---
 It's been about three months since my book came out. Over a year of me figuring out how this author thing works. I've presented on writing panels, had a book signing, done all of the quintessential "author" things, and yet, almost daily I have the struggle of feeling like I'm out of my depth. Like I'm not doing enough, that I don't know what I'm doing, that I'm still not a "real" author (whatever that means). 
