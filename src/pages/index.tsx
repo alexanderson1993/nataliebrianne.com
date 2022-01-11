@@ -67,8 +67,24 @@ const IndexPage = ({ data }) => {
                 {...data.cover.childImageSharp}
               />
               <h3 className="text-white z-0  relative text-2xl font-semibold text-center">
-                Coming: March 2021
+                Out Now!
               </h3>
+              <div className="flex flex-col z-0 relative items-center justify-center">
+                <a
+                  href="https://www.amazon.com/Constantine-Capers-Pennington-Natalie-Brianne-ebook/dp/B08WS31F6L/ref=sr_1_1?dchild=1&keywords=Constantine+capers&qid=1614893154&sr=8-1"
+                  target="_blank"
+                  className="text-2xl font-bold w-full bg-pink-700 hover:bg-pink-800 active:bg-pink-900 text-center rounded shadow-md mb-4 px-4"
+                >
+                  EBook Edition
+                </a>
+                <a
+                  href="https://www.amazon.com/dp/1953491138/ref=sr_1_2?dchild=1&keywords=Constantine+capers&qid=1614893154&sr=8-2"
+                  target="_blank"
+                  className="text-2xl font-bold w-full bg-pink-700 hover:bg-pink-800 active:bg-pink-900 text-center rounded shadow-md px-4"
+                >
+                  Paperback Edition
+                </a>
+              </div>
             </div>
           </Link>
           <div
